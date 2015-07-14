@@ -1,0 +1,3350 @@
+Version 3.2 HI-TECH Software Intermediate Code
+"19 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _INDF `Vuc 1 e@0 ]
+"20 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TMR0 `Vuc 1 e@1 ]
+"21 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PCL `Vuc 1 e@2 ]
+"22 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _STATUS `Vuc 1 e@3 ]
+"23 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _FSR `Vuc 1 e@4 ]
+"24 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PORTA `Vuc 1 e@5 ]
+"25 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PORTB `Vuc 1 e@6 ]
+"26 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PORTC `Vuc 1 e@7 ]
+"28 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PORTD `Vuc 1 e@8 ]
+"29 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PORTE `Vuc 1 e@9 ]
+"31 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PCLATH `Vuc 1 e@10 ]
+"32 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _INTCON `Vuc 1 e@11 ]
+"33 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PIR1 `Vuc 1 e@12 ]
+"34 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PIR2 `Vuc 1 e@13 ]
+"35 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TMR1L `Vuc 1 e@14 ]
+"36 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TMR1H `Vuc 1 e@15 ]
+"37 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _T1CON `Vuc 1 e@16 ]
+"38 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TMR2 `Vuc 1 e@17 ]
+"39 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _T2CON `Vuc 1 e@18 ]
+"40 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SSPBUF `Vuc 1 e@19 ]
+"41 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SSPCON `Vuc 1 e@20 ]
+"42 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCPR1L `Vuc 1 e@21 ]
+"43 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCPR1H `Vuc 1 e@22 ]
+"44 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP1CON `Vuc 1 e@23 ]
+"45 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RCSTA `Vuc 1 e@24 ]
+"46 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TXREG `Vuc 1 e@25 ]
+"47 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RCREG `Vuc 1 e@26 ]
+"48 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCPR2L `Vuc 1 e@27 ]
+"49 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCPR2H `Vuc 1 e@28 ]
+"50 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP2CON `Vuc 1 e@29 ]
+"51 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ADRESH `Vuc 1 e@30 ]
+"52 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ADCON0 `Vuc 1 e@31 ]
+"55 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _OPTION `Vuc 1 e@129 ]
+"56 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISA `Vuc 1 e@133 ]
+"57 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISB `Vuc 1 e@134 ]
+"58 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISC `Vuc 1 e@135 ]
+"60 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISD `Vuc 1 e@136 ]
+"61 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISE `Vuc 1 e@137 ]
+"63 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PIE1 `Vuc 1 e@140 ]
+"64 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PIE2 `Vuc 1 e@141 ]
+"65 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PCON `Vuc 1 e@142 ]
+"66 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SSPCON2 `Vuc 1 e@145 ]
+"67 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PR2 `Vuc 1 e@146 ]
+"68 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SSPADD `Vuc 1 e@147 ]
+"69 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SSPSTAT `Vuc 1 e@148 ]
+"70 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TXSTA `Vuc 1 e@152 ]
+"71 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SPBRG `Vuc 1 e@153 ]
+"72 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CMCON `Vuc 1 e@156 ]
+"73 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CVRCON `Vuc 1 e@157 ]
+"74 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ADRESL `Vuc 1 e@158 ]
+"75 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ADCON1 `Vuc 1 e@159 ]
+"78 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _EEDATA `Vuc 1 e@268 ]
+"79 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _EEADR `Vuc 1 e@269 ]
+"81 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _EEADRL `Vuc 1 e@269 ]
+"82 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _EEDATH `Vuc 1 e@270 ]
+"83 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _EEADRH `Vuc 1 e@271 ]
+"86 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _EECON1 `Vuc 1 e@396 ]
+"87 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _EECON2 `Vuc 1 e@397 ]
+"90 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _IRP `Vb 1 e@31 ]
+"91 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RP1 `Vb 1 e@30 ]
+"92 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RP0 `Vb 1 e@29 ]
+"93 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TO `Vb 1 e@28 ]
+"94 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PD `Vb 1 e@27 ]
+"95 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ZERO `Vb 1 e@26 ]
+"96 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _DC `Vb 1 e@25 ]
+"97 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CARRY `Vb 1 e@24 ]
+"100 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RA5 `Vb 1 e@45 ]
+"101 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RA4 `Vb 1 e@44 ]
+"102 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RA3 `Vb 1 e@43 ]
+"103 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RA2 `Vb 1 e@42 ]
+"104 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RA1 `Vb 1 e@41 ]
+"105 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RA0 `Vb 1 e@40 ]
+"108 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RB7 `Vb 1 e@55 ]
+"109 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RB6 `Vb 1 e@54 ]
+"110 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RB5 `Vb 1 e@53 ]
+"111 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RB4 `Vb 1 e@52 ]
+"112 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RB3 `Vb 1 e@51 ]
+"113 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RB2 `Vb 1 e@50 ]
+"114 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RB1 `Vb 1 e@49 ]
+"115 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RB0 `Vb 1 e@48 ]
+"118 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RC7 `Vb 1 e@63 ]
+"119 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RC6 `Vb 1 e@62 ]
+"120 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RC5 `Vb 1 e@61 ]
+"121 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RC4 `Vb 1 e@60 ]
+"122 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RC3 `Vb 1 e@59 ]
+"123 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RC2 `Vb 1 e@58 ]
+"124 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RC1 `Vb 1 e@57 ]
+"125 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RC0 `Vb 1 e@56 ]
+"129 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RD7 `Vb 1 e@71 ]
+"130 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RD6 `Vb 1 e@70 ]
+"131 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RD5 `Vb 1 e@69 ]
+"132 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RD4 `Vb 1 e@68 ]
+"133 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RD3 `Vb 1 e@67 ]
+"134 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RD2 `Vb 1 e@66 ]
+"135 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RD1 `Vb 1 e@65 ]
+"136 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RD0 `Vb 1 e@64 ]
+"139 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RE2 `Vb 1 e@74 ]
+"140 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RE1 `Vb 1 e@73 ]
+"141 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RE0 `Vb 1 e@72 ]
+"145 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _GIE `Vb 1 e@95 ]
+"146 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PEIE `Vb 1 e@94 ]
+"147 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _T0IE `Vb 1 e@93 ]
+"148 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _INTE `Vb 1 e@92 ]
+"149 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RBIE `Vb 1 e@91 ]
+"150 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _T0IF `Vb 1 e@90 ]
+"151 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _INTF `Vb 1 e@89 ]
+"152 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RBIF `Vb 1 e@88 ]
+"154 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TMR0IE `Vb 1 e@93 ]
+"155 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TMR0IF `Vb 1 e@90 ]
+"159 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PSPIF `Vb 1 e@103 ]
+"161 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ADIF `Vb 1 e@102 ]
+"162 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RCIF `Vb 1 e@101 ]
+"163 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TXIF `Vb 1 e@100 ]
+"164 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SSPIF `Vb 1 e@99 ]
+"165 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP1IF `Vb 1 e@98 ]
+"166 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TMR2IF `Vb 1 e@97 ]
+"167 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TMR1IF `Vb 1 e@96 ]
+"170 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CMIF `Vb 1 e@110 ]
+"171 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _EEIF `Vb 1 e@108 ]
+"172 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _BCLIF `Vb 1 e@107 ]
+"173 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP2IF `Vb 1 e@104 ]
+"176 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _T1CKPS1 `Vb 1 e@133 ]
+"177 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _T1CKPS0 `Vb 1 e@132 ]
+"178 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _T1OSCEN `Vb 1 e@131 ]
+"179 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _T1SYNC `Vb 1 e@130 ]
+"180 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TMR1CS `Vb 1 e@129 ]
+"181 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TMR1ON `Vb 1 e@128 ]
+"184 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TOUTPS3 `Vb 1 e@150 ]
+"185 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TOUTPS2 `Vb 1 e@149 ]
+"186 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TOUTPS1 `Vb 1 e@148 ]
+"187 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TOUTPS0 `Vb 1 e@147 ]
+"188 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TMR2ON `Vb 1 e@146 ]
+"189 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _T2CKPS1 `Vb 1 e@145 ]
+"190 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _T2CKPS0 `Vb 1 e@144 ]
+"193 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _WCOL `Vb 1 e@167 ]
+"194 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SSPOV `Vb 1 e@166 ]
+"195 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SSPEN `Vb 1 e@165 ]
+"196 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CKP `Vb 1 e@164 ]
+"197 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SSPM3 `Vb 1 e@163 ]
+"198 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SSPM2 `Vb 1 e@162 ]
+"199 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SSPM1 `Vb 1 e@161 ]
+"200 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SSPM0 `Vb 1 e@160 ]
+"203 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP1X `Vb 1 e@189 ]
+"204 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP1Y `Vb 1 e@188 ]
+"205 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP1M3 `Vb 1 e@187 ]
+"206 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP1M2 `Vb 1 e@186 ]
+"207 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP1M1 `Vb 1 e@185 ]
+"208 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP1M0 `Vb 1 e@184 ]
+"211 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SPEN `Vb 1 e@199 ]
+"212 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RX9 `Vb 1 e@198 ]
+"213 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SREN `Vb 1 e@197 ]
+"214 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CREN `Vb 1 e@196 ]
+"215 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ADDEN `Vb 1 e@195 ]
+"216 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _FERR `Vb 1 e@194 ]
+"217 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _OERR `Vb 1 e@193 ]
+"218 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RX9D `Vb 1 e@192 ]
+"221 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP2X `Vb 1 e@237 ]
+"222 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP2Y `Vb 1 e@236 ]
+"223 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP2M3 `Vb 1 e@235 ]
+"224 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP2M2 `Vb 1 e@234 ]
+"225 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP2M1 `Vb 1 e@233 ]
+"226 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP2M0 `Vb 1 e@232 ]
+"229 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ADCS1 `Vb 1 e@255 ]
+"230 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ADCS0 `Vb 1 e@254 ]
+"231 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CHS2 `Vb 1 e@253 ]
+"232 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CHS1 `Vb 1 e@252 ]
+"233 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CHS0 `Vb 1 e@251 ]
+"234 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ADGO `Vb 1 e@250 ]
+"236 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _GODONE `Vb 1 e@250 ]
+"237 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ADON `Vb 1 e@248 ]
+"240 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RBPU `Vb 1 e@1039 ]
+"241 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _INTEDG `Vb 1 e@1038 ]
+"242 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _T0CS `Vb 1 e@1037 ]
+"243 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _T0SE `Vb 1 e@1036 ]
+"244 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PSA `Vb 1 e@1035 ]
+"245 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PS2 `Vb 1 e@1034 ]
+"246 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PS1 `Vb 1 e@1033 ]
+"247 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PS0 `Vb 1 e@1032 ]
+"250 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISA5 `Vb 1 e@1069 ]
+"251 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISA4 `Vb 1 e@1068 ]
+"252 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISA3 `Vb 1 e@1067 ]
+"253 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISA2 `Vb 1 e@1066 ]
+"254 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISA1 `Vb 1 e@1065 ]
+"255 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISA0 `Vb 1 e@1064 ]
+"258 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISB7 `Vb 1 e@1079 ]
+"259 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISB6 `Vb 1 e@1078 ]
+"260 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISB5 `Vb 1 e@1077 ]
+"261 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISB4 `Vb 1 e@1076 ]
+"262 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISB3 `Vb 1 e@1075 ]
+"263 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISB2 `Vb 1 e@1074 ]
+"264 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISB1 `Vb 1 e@1073 ]
+"265 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISB0 `Vb 1 e@1072 ]
+"268 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISC7 `Vb 1 e@1087 ]
+"269 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISC6 `Vb 1 e@1086 ]
+"270 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISC5 `Vb 1 e@1085 ]
+"271 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISC4 `Vb 1 e@1084 ]
+"272 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISC3 `Vb 1 e@1083 ]
+"273 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISC2 `Vb 1 e@1082 ]
+"274 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISC1 `Vb 1 e@1081 ]
+"275 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISC0 `Vb 1 e@1080 ]
+"279 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISD7 `Vb 1 e@1095 ]
+"280 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISD6 `Vb 1 e@1094 ]
+"281 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISD5 `Vb 1 e@1093 ]
+"282 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISD4 `Vb 1 e@1092 ]
+"283 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISD3 `Vb 1 e@1091 ]
+"284 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISD2 `Vb 1 e@1090 ]
+"285 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISD1 `Vb 1 e@1089 ]
+"286 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISD0 `Vb 1 e@1088 ]
+"289 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _IBF `Vb 1 e@1103 ]
+"290 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _OBF `Vb 1 e@1102 ]
+"291 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _IBOV `Vb 1 e@1101 ]
+"292 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PSPMODE `Vb 1 e@1100 ]
+"294 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISE2 `Vb 1 e@1098 ]
+"295 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISE1 `Vb 1 e@1097 ]
+"296 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRISE0 `Vb 1 e@1096 ]
+"301 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PSPIE `Vb 1 e@1127 ]
+"303 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ADIE `Vb 1 e@1126 ]
+"304 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RCIE `Vb 1 e@1125 ]
+"305 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TXIE `Vb 1 e@1124 ]
+"306 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SSPIE `Vb 1 e@1123 ]
+"307 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP1IE `Vb 1 e@1122 ]
+"308 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TMR2IE `Vb 1 e@1121 ]
+"309 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TMR1IE `Vb 1 e@1120 ]
+"312 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CMIE `Vb 1 e@1134 ]
+"313 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _EEIE `Vb 1 e@1132 ]
+"314 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _BCLIE `Vb 1 e@1131 ]
+"315 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CCP2IE `Vb 1 e@1128 ]
+"318 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _POR `Vb 1 e@1137 ]
+"319 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _BOR `Vb 1 e@1136 ]
+"322 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _GCEN `Vb 1 e@1167 ]
+"323 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ACKSTAT `Vb 1 e@1166 ]
+"324 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ACKDT `Vb 1 e@1165 ]
+"325 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ACKEN `Vb 1 e@1164 ]
+"326 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RCEN `Vb 1 e@1163 ]
+"327 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PEN `Vb 1 e@1162 ]
+"328 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RSEN `Vb 1 e@1161 ]
+"329 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SEN `Vb 1 e@1160 ]
+"332 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SMP `Vb 1 e@1191 ]
+"333 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CKE `Vb 1 e@1190 ]
+"334 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _DA `Vb 1 e@1189 ]
+"335 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _STOP `Vb 1 e@1188 ]
+"336 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _START `Vb 1 e@1187 ]
+"337 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RW `Vb 1 e@1186 ]
+"338 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _UA `Vb 1 e@1185 ]
+"339 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _BF `Vb 1 e@1184 ]
+"352 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CSRC `Vb 1 e@1223 ]
+"353 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TX9 `Vb 1 e@1222 ]
+"354 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TXEN `Vb 1 e@1221 ]
+"355 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _SYNC `Vb 1 e@1220 ]
+"356 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _BRGH `Vb 1 e@1218 ]
+"357 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TRMT `Vb 1 e@1217 ]
+"358 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _TX9D `Vb 1 e@1216 ]
+"361 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _C2OUT `Vb 1 e@1255 ]
+"362 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _C1OUT `Vb 1 e@1254 ]
+"363 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _C2INV `Vb 1 e@1253 ]
+"364 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _C1INV `Vb 1 e@1252 ]
+"365 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CIS `Vb 1 e@1251 ]
+"366 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CM2 `Vb 1 e@1250 ]
+"367 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CM1 `Vb 1 e@1249 ]
+"368 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CM0 `Vb 1 e@1248 ]
+"371 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CVREN `Vb 1 e@1263 ]
+"372 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CVROE `Vb 1 e@1262 ]
+"373 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CVRR `Vb 1 e@1261 ]
+"374 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CVR3 `Vb 1 e@1259 ]
+"375 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CVR2 `Vb 1 e@1258 ]
+"376 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CVR1 `Vb 1 e@1257 ]
+"377 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _CVR0 `Vb 1 e@1256 ]
+"380 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ADFM `Vb 1 e@1279 ]
+"381 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _ADCS2 `Vb 1 e@1278 ]
+"382 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PCFG3 `Vb 1 e@1275 ]
+"383 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PCFG2 `Vb 1 e@1274 ]
+"384 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PCFG1 `Vb 1 e@1273 ]
+"385 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _PCFG0 `Vb 1 e@1272 ]
+"388 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _EEPGD `Vb 1 e@3175 ]
+"389 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _WRERR `Vb 1 e@3171 ]
+"390 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _WREN `Vb 1 e@3170 ]
+"391 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _WR `Vb 1 e@3169 ]
+"392 C:\Program Files\HI-TECH Software\include\pic168xa.h
+[v _RD `Vb 1 e@3168 ]
+"64 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _status `uc 1 e ]
+"65 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _msg `uc 1 e ]
+"66 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _pointer `uc 1 e ]
+"67 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _SPI `Cuc -> 0 `x e ]
+"68 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _STD `Cuc -> 0 `x e ]
+"69 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _ERASE `Cuc -> 0 `x e ]
+"70 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _mode `*Cuc -> 4 `i e ]
+[p mainexit ]
+"27 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _Init `(v 0 ef ]
+"33 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _lcd_clr `(v 0 ef ]
+"32 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _lcd_goto `(v 0 ef1`uc ]
+"34 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _send_string `(v 0 ef1`*Cuc ]
+"39 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _Stand `(v 0 ef ]
+"51 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _Erase `(v 0 ef ]
+"38 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _Spi `(v 0 ef ]
+"30 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _send_config `(v 0 ef1`uc ]
+"36 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _spi_initialize `(v 0 ef ]
+"37 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _uc_send_receive_spi `(uc 0 ef1`uc ]
+"29 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _tmr_delay `(v 0 ef1`us ]
+"35 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _e_pulse `(v 0 ef ]
+"41 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _Record `(v 0 ef ]
+"40 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _Play `(v 0 ef ]
+"46 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _Play_s `(v 0 ef ]
+"59 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _Option `(v 0 ef ]
+"48 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _Forward `(v 0 ef ]
+"43 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _message2p `(v 0 ef ]
+"42 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _message1p `(v 0 ef ]
+"56 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _mic `(v 0 ef ]
+"57 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _analog `(v 0 ef ]
+"45 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _message2r `(v 0 ef ]
+"44 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _message1r `(v 0 ef ]
+"47 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _Record_s `(v 0 ef ]
+"52 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _g_erase `(v 0 ef ]
+"53 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[v _erase `(v 0 ef ]
+[; ;pic168xa.h: 19: volatile unsigned char INDF @ 0x00;
+[; ;pic168xa.h: 20: volatile unsigned char TMR0 @ 0x01;
+[; ;pic168xa.h: 21: volatile unsigned char PCL @ 0x02;
+[; ;pic168xa.h: 22: volatile unsigned char STATUS @ 0x03;
+[; ;pic168xa.h: 23: volatile unsigned char FSR @ 0x04;
+[; ;pic168xa.h: 24: volatile unsigned char PORTA @ 0x05;
+[; ;pic168xa.h: 25: volatile unsigned char PORTB @ 0x06;
+[; ;pic168xa.h: 26: volatile unsigned char PORTC @ 0x07;
+[; ;pic168xa.h: 28: volatile unsigned char PORTD @ 0x08;
+[; ;pic168xa.h: 29: volatile unsigned char PORTE @ 0x09;
+[; ;pic168xa.h: 31: volatile unsigned char PCLATH @ 0x0A;
+[; ;pic168xa.h: 32: volatile unsigned char INTCON @ 0x0B;
+[; ;pic168xa.h: 33: volatile unsigned char PIR1 @ 0x0C;
+[; ;pic168xa.h: 34: volatile unsigned char PIR2 @ 0x0D;
+[; ;pic168xa.h: 35: volatile unsigned char TMR1L @ 0x0E;
+[; ;pic168xa.h: 36: volatile unsigned char TMR1H @ 0x0F;
+[; ;pic168xa.h: 37: volatile unsigned char T1CON @ 0x10;
+[; ;pic168xa.h: 38: volatile unsigned char TMR2 @ 0x11;
+[; ;pic168xa.h: 39: volatile unsigned char T2CON @ 0x12;
+[; ;pic168xa.h: 40: volatile unsigned char SSPBUF @ 0x13;
+[; ;pic168xa.h: 41: volatile unsigned char SSPCON @ 0x14;
+[; ;pic168xa.h: 42: volatile unsigned char CCPR1L @ 0x15;
+[; ;pic168xa.h: 43: volatile unsigned char CCPR1H @ 0x16;
+[; ;pic168xa.h: 44: volatile unsigned char CCP1CON @ 0x17;
+[; ;pic168xa.h: 45: volatile unsigned char RCSTA @ 0x18;
+[; ;pic168xa.h: 46: volatile unsigned char TXREG @ 0x19;
+[; ;pic168xa.h: 47: volatile unsigned char RCREG @ 0x1A;
+[; ;pic168xa.h: 48: volatile unsigned char CCPR2L @ 0x1B;
+[; ;pic168xa.h: 49: volatile unsigned char CCPR2H @ 0x1C;
+[; ;pic168xa.h: 50: volatile unsigned char CCP2CON @ 0x1D;
+[; ;pic168xa.h: 51: volatile unsigned char ADRESH @ 0x1E;
+[; ;pic168xa.h: 52: volatile unsigned char ADCON0 @ 0x1F;
+[; ;pic168xa.h: 55: volatile unsigned char OPTION @ 0x81;
+[; ;pic168xa.h: 56: volatile unsigned char TRISA @ 0x85;
+[; ;pic168xa.h: 57: volatile unsigned char TRISB @ 0x86;
+[; ;pic168xa.h: 58: volatile unsigned char TRISC @ 0x87;
+[; ;pic168xa.h: 60: volatile unsigned char TRISD @ 0x88;
+[; ;pic168xa.h: 61: volatile unsigned char TRISE @ 0x89;
+[; ;pic168xa.h: 63: volatile unsigned char PIE1 @ 0x8C;
+[; ;pic168xa.h: 64: volatile unsigned char PIE2 @ 0x8D;
+[; ;pic168xa.h: 65: volatile unsigned char PCON @ 0x8E;
+[; ;pic168xa.h: 66: volatile unsigned char SSPCON2 @ 0x91;
+[; ;pic168xa.h: 67: volatile unsigned char PR2 @ 0x92;
+[; ;pic168xa.h: 68: volatile unsigned char SSPADD @ 0x93;
+[; ;pic168xa.h: 69: volatile unsigned char SSPSTAT @ 0x94;
+[; ;pic168xa.h: 70: volatile unsigned char TXSTA @ 0x98;
+[; ;pic168xa.h: 71: volatile unsigned char SPBRG @ 0x99;
+[; ;pic168xa.h: 72: volatile unsigned char CMCON @ 0x9C;
+[; ;pic168xa.h: 73: volatile unsigned char CVRCON @ 0x9D;
+[; ;pic168xa.h: 74: volatile unsigned char ADRESL @ 0x9E;
+[; ;pic168xa.h: 75: volatile unsigned char ADCON1 @ 0x9F;
+[; ;pic168xa.h: 78: volatile unsigned char EEDATA @ 0x10C;
+[; ;pic168xa.h: 79: volatile unsigned char EEADR @ 0x10D;
+[; ;pic168xa.h: 81: volatile unsigned char EEADRL @ 0x10D;
+[; ;pic168xa.h: 82: volatile unsigned char EEDATH @ 0x10E;
+[; ;pic168xa.h: 83: volatile unsigned char EEADRH @ 0x10F;
+[; ;pic168xa.h: 86: volatile unsigned char EECON1 @ 0x18C;
+[; ;pic168xa.h: 87: volatile unsigned char EECON2 @ 0x18D;
+[; ;pic168xa.h: 90: volatile bit IRP @ (unsigned)&STATUS*8+7;
+[; ;pic168xa.h: 91: volatile bit RP1 @ (unsigned)&STATUS*8+6;
+[; ;pic168xa.h: 92: volatile bit RP0 @ (unsigned)&STATUS*8+5;
+[; ;pic168xa.h: 93: volatile bit TO @ (unsigned)&STATUS*8+4;
+[; ;pic168xa.h: 94: volatile bit PD @ (unsigned)&STATUS*8+3;
+[; ;pic168xa.h: 95: volatile bit ZERO @ (unsigned)&STATUS*8+2;
+[; ;pic168xa.h: 96: volatile bit DC @ (unsigned)&STATUS*8+1;
+[; ;pic168xa.h: 97: volatile bit CARRY @ (unsigned)&STATUS*8+0;
+[; ;pic168xa.h: 100: volatile bit RA5 @ (unsigned)&PORTA*8+5;
+[; ;pic168xa.h: 101: volatile bit RA4 @ (unsigned)&PORTA*8+4;
+[; ;pic168xa.h: 102: volatile bit RA3 @ (unsigned)&PORTA*8+3;
+[; ;pic168xa.h: 103: volatile bit RA2 @ (unsigned)&PORTA*8+2;
+[; ;pic168xa.h: 104: volatile bit RA1 @ (unsigned)&PORTA*8+1;
+[; ;pic168xa.h: 105: volatile bit RA0 @ (unsigned)&PORTA*8+0;
+[; ;pic168xa.h: 108: volatile bit RB7 @ (unsigned)&PORTB*8+7;
+[; ;pic168xa.h: 109: volatile bit RB6 @ (unsigned)&PORTB*8+6;
+[; ;pic168xa.h: 110: volatile bit RB5 @ (unsigned)&PORTB*8+5;
+[; ;pic168xa.h: 111: volatile bit RB4 @ (unsigned)&PORTB*8+4;
+[; ;pic168xa.h: 112: volatile bit RB3 @ (unsigned)&PORTB*8+3;
+[; ;pic168xa.h: 113: volatile bit RB2 @ (unsigned)&PORTB*8+2;
+[; ;pic168xa.h: 114: volatile bit RB1 @ (unsigned)&PORTB*8+1;
+[; ;pic168xa.h: 115: volatile bit RB0 @ (unsigned)&PORTB*8+0;
+[; ;pic168xa.h: 118: volatile bit RC7 @ (unsigned)&PORTC*8+7;
+[; ;pic168xa.h: 119: volatile bit RC6 @ (unsigned)&PORTC*8+6;
+[; ;pic168xa.h: 120: volatile bit RC5 @ (unsigned)&PORTC*8+5;
+[; ;pic168xa.h: 121: volatile bit RC4 @ (unsigned)&PORTC*8+4;
+[; ;pic168xa.h: 122: volatile bit RC3 @ (unsigned)&PORTC*8+3;
+[; ;pic168xa.h: 123: volatile bit RC2 @ (unsigned)&PORTC*8+2;
+[; ;pic168xa.h: 124: volatile bit RC1 @ (unsigned)&PORTC*8+1;
+[; ;pic168xa.h: 125: volatile bit RC0 @ (unsigned)&PORTC*8+0;
+[; ;pic168xa.h: 129: volatile bit RD7 @ (unsigned)&PORTD*8+7;
+[; ;pic168xa.h: 130: volatile bit RD6 @ (unsigned)&PORTD*8+6;
+[; ;pic168xa.h: 131: volatile bit RD5 @ (unsigned)&PORTD*8+5;
+[; ;pic168xa.h: 132: volatile bit RD4 @ (unsigned)&PORTD*8+4;
+[; ;pic168xa.h: 133: volatile bit RD3 @ (unsigned)&PORTD*8+3;
+[; ;pic168xa.h: 134: volatile bit RD2 @ (unsigned)&PORTD*8+2;
+[; ;pic168xa.h: 135: volatile bit RD1 @ (unsigned)&PORTD*8+1;
+[; ;pic168xa.h: 136: volatile bit RD0 @ (unsigned)&PORTD*8+0;
+[; ;pic168xa.h: 139: volatile bit RE2 @ (unsigned)&PORTE*8+2;
+[; ;pic168xa.h: 140: volatile bit RE1 @ (unsigned)&PORTE*8+1;
+[; ;pic168xa.h: 141: volatile bit RE0 @ (unsigned)&PORTE*8+0;
+[; ;pic168xa.h: 145: volatile bit GIE @ (unsigned)&INTCON*8+7;
+[; ;pic168xa.h: 146: volatile bit PEIE @ (unsigned)&INTCON*8+6;
+[; ;pic168xa.h: 147: volatile bit T0IE @ (unsigned)&INTCON*8+5;
+[; ;pic168xa.h: 148: volatile bit INTE @ (unsigned)&INTCON*8+4;
+[; ;pic168xa.h: 149: volatile bit RBIE @ (unsigned)&INTCON*8+3;
+[; ;pic168xa.h: 150: volatile bit T0IF @ (unsigned)&INTCON*8+2;
+[; ;pic168xa.h: 151: volatile bit INTF @ (unsigned)&INTCON*8+1;
+[; ;pic168xa.h: 152: volatile bit RBIF @ (unsigned)&INTCON*8+0;
+[; ;pic168xa.h: 154: volatile bit TMR0IE @ (unsigned)&INTCON*8+5;
+[; ;pic168xa.h: 155: volatile bit TMR0IF @ (unsigned)&INTCON*8+2;
+[; ;pic168xa.h: 159: volatile bit PSPIF @ (unsigned)&PIR1*8+7;
+[; ;pic168xa.h: 161: volatile bit ADIF @ (unsigned)&PIR1*8+6;
+[; ;pic168xa.h: 162: volatile bit RCIF @ (unsigned)&PIR1*8+5;
+[; ;pic168xa.h: 163: volatile bit TXIF @ (unsigned)&PIR1*8+4;
+[; ;pic168xa.h: 164: volatile bit SSPIF @ (unsigned)&PIR1*8+3;
+[; ;pic168xa.h: 165: volatile bit CCP1IF @ (unsigned)&PIR1*8+2;
+[; ;pic168xa.h: 166: volatile bit TMR2IF @ (unsigned)&PIR1*8+1;
+[; ;pic168xa.h: 167: volatile bit TMR1IF @ (unsigned)&PIR1*8+0;
+[; ;pic168xa.h: 170: volatile bit CMIF @ (unsigned)&PIR2*8+6;
+[; ;pic168xa.h: 171: volatile bit EEIF @ (unsigned)&PIR2*8+4;
+[; ;pic168xa.h: 172: volatile bit BCLIF @ (unsigned)&PIR2*8+3;
+[; ;pic168xa.h: 173: volatile bit CCP2IF @ (unsigned)&PIR2*8+0;
+[; ;pic168xa.h: 176: volatile bit T1CKPS1 @ (unsigned)&T1CON*8+5;
+[; ;pic168xa.h: 177: volatile bit T1CKPS0 @ (unsigned)&T1CON*8+4;
+[; ;pic168xa.h: 178: volatile bit T1OSCEN @ (unsigned)&T1CON*8+3;
+[; ;pic168xa.h: 179: volatile bit T1SYNC @ (unsigned)&T1CON*8+2;
+[; ;pic168xa.h: 180: volatile bit TMR1CS @ (unsigned)&T1CON*8+1;
+[; ;pic168xa.h: 181: volatile bit TMR1ON @ (unsigned)&T1CON*8+0;
+[; ;pic168xa.h: 184: volatile bit TOUTPS3 @ (unsigned)&T2CON*8+6;
+[; ;pic168xa.h: 185: volatile bit TOUTPS2 @ (unsigned)&T2CON*8+5;
+[; ;pic168xa.h: 186: volatile bit TOUTPS1 @ (unsigned)&T2CON*8+4;
+[; ;pic168xa.h: 187: volatile bit TOUTPS0 @ (unsigned)&T2CON*8+3;
+[; ;pic168xa.h: 188: volatile bit TMR2ON @ (unsigned)&T2CON*8+2;
+[; ;pic168xa.h: 189: volatile bit T2CKPS1 @ (unsigned)&T2CON*8+1;
+[; ;pic168xa.h: 190: volatile bit T2CKPS0 @ (unsigned)&T2CON*8+0;
+[; ;pic168xa.h: 193: volatile bit WCOL @ (unsigned)&SSPCON*8+7;
+[; ;pic168xa.h: 194: volatile bit SSPOV @ (unsigned)&SSPCON*8+6;
+[; ;pic168xa.h: 195: volatile bit SSPEN @ (unsigned)&SSPCON*8+5;
+[; ;pic168xa.h: 196: volatile bit CKP @ (unsigned)&SSPCON*8+4;
+[; ;pic168xa.h: 197: volatile bit SSPM3 @ (unsigned)&SSPCON*8+3;
+[; ;pic168xa.h: 198: volatile bit SSPM2 @ (unsigned)&SSPCON*8+2;
+[; ;pic168xa.h: 199: volatile bit SSPM1 @ (unsigned)&SSPCON*8+1;
+[; ;pic168xa.h: 200: volatile bit SSPM0 @ (unsigned)&SSPCON*8+0;
+[; ;pic168xa.h: 203: volatile bit CCP1X @ (unsigned)&CCP1CON*8+5;
+[; ;pic168xa.h: 204: volatile bit CCP1Y @ (unsigned)&CCP1CON*8+4;
+[; ;pic168xa.h: 205: volatile bit CCP1M3 @ (unsigned)&CCP1CON*8+3;
+[; ;pic168xa.h: 206: volatile bit CCP1M2 @ (unsigned)&CCP1CON*8+2;
+[; ;pic168xa.h: 207: volatile bit CCP1M1 @ (unsigned)&CCP1CON*8+1;
+[; ;pic168xa.h: 208: volatile bit CCP1M0 @ (unsigned)&CCP1CON*8+0;
+[; ;pic168xa.h: 211: volatile bit SPEN @ (unsigned)&RCSTA*8+7;
+[; ;pic168xa.h: 212: volatile bit RX9 @ (unsigned)&RCSTA*8+6;
+[; ;pic168xa.h: 213: volatile bit SREN @ (unsigned)&RCSTA*8+5;
+[; ;pic168xa.h: 214: volatile bit CREN @ (unsigned)&RCSTA*8+4;
+[; ;pic168xa.h: 215: volatile bit ADDEN @ (unsigned)&RCSTA*8+3;
+[; ;pic168xa.h: 216: volatile bit FERR @ (unsigned)&RCSTA*8+2;
+[; ;pic168xa.h: 217: volatile bit OERR @ (unsigned)&RCSTA*8+1;
+[; ;pic168xa.h: 218: volatile bit RX9D @ (unsigned)&RCSTA*8+0;
+[; ;pic168xa.h: 221: volatile bit CCP2X @ (unsigned)&CCP2CON*8+5;
+[; ;pic168xa.h: 222: volatile bit CCP2Y @ (unsigned)&CCP2CON*8+4;
+[; ;pic168xa.h: 223: volatile bit CCP2M3 @ (unsigned)&CCP2CON*8+3;
+[; ;pic168xa.h: 224: volatile bit CCP2M2 @ (unsigned)&CCP2CON*8+2;
+[; ;pic168xa.h: 225: volatile bit CCP2M1 @ (unsigned)&CCP2CON*8+1;
+[; ;pic168xa.h: 226: volatile bit CCP2M0 @ (unsigned)&CCP2CON*8+0;
+[; ;pic168xa.h: 229: volatile bit ADCS1 @ (unsigned)&ADCON0*8+7;
+[; ;pic168xa.h: 230: volatile bit ADCS0 @ (unsigned)&ADCON0*8+6;
+[; ;pic168xa.h: 231: volatile bit CHS2 @ (unsigned)&ADCON0*8+5;
+[; ;pic168xa.h: 232: volatile bit CHS1 @ (unsigned)&ADCON0*8+4;
+[; ;pic168xa.h: 233: volatile bit CHS0 @ (unsigned)&ADCON0*8+3;
+[; ;pic168xa.h: 234: volatile bit ADGO @ (unsigned)&ADCON0*8+2;
+[; ;pic168xa.h: 236: volatile bit GODONE @ (unsigned)&ADCON0*8+2;
+[; ;pic168xa.h: 237: volatile bit ADON @ (unsigned)&ADCON0*8+0;
+[; ;pic168xa.h: 240: volatile bit RBPU @ (unsigned)&OPTION*8+7;
+[; ;pic168xa.h: 241: volatile bit INTEDG @ (unsigned)&OPTION*8+6;
+[; ;pic168xa.h: 242: volatile bit T0CS @ (unsigned)&OPTION*8+5;
+[; ;pic168xa.h: 243: volatile bit T0SE @ (unsigned)&OPTION*8+4;
+[; ;pic168xa.h: 244: volatile bit PSA @ (unsigned)&OPTION*8+3;
+[; ;pic168xa.h: 245: volatile bit PS2 @ (unsigned)&OPTION*8+2;
+[; ;pic168xa.h: 246: volatile bit PS1 @ (unsigned)&OPTION*8+1;
+[; ;pic168xa.h: 247: volatile bit PS0 @ (unsigned)&OPTION*8+0;
+[; ;pic168xa.h: 250: volatile bit TRISA5 @ (unsigned)&TRISA*8+5;
+[; ;pic168xa.h: 251: volatile bit TRISA4 @ (unsigned)&TRISA*8+4;
+[; ;pic168xa.h: 252: volatile bit TRISA3 @ (unsigned)&TRISA*8+3;
+[; ;pic168xa.h: 253: volatile bit TRISA2 @ (unsigned)&TRISA*8+2;
+[; ;pic168xa.h: 254: volatile bit TRISA1 @ (unsigned)&TRISA*8+1;
+[; ;pic168xa.h: 255: volatile bit TRISA0 @ (unsigned)&TRISA*8+0;
+[; ;pic168xa.h: 258: volatile bit TRISB7 @ (unsigned)&TRISB*8+7;
+[; ;pic168xa.h: 259: volatile bit TRISB6 @ (unsigned)&TRISB*8+6;
+[; ;pic168xa.h: 260: volatile bit TRISB5 @ (unsigned)&TRISB*8+5;
+[; ;pic168xa.h: 261: volatile bit TRISB4 @ (unsigned)&TRISB*8+4;
+[; ;pic168xa.h: 262: volatile bit TRISB3 @ (unsigned)&TRISB*8+3;
+[; ;pic168xa.h: 263: volatile bit TRISB2 @ (unsigned)&TRISB*8+2;
+[; ;pic168xa.h: 264: volatile bit TRISB1 @ (unsigned)&TRISB*8+1;
+[; ;pic168xa.h: 265: volatile bit TRISB0 @ (unsigned)&TRISB*8+0;
+[; ;pic168xa.h: 268: volatile bit TRISC7 @ (unsigned)&TRISC*8+7;
+[; ;pic168xa.h: 269: volatile bit TRISC6 @ (unsigned)&TRISC*8+6;
+[; ;pic168xa.h: 270: volatile bit TRISC5 @ (unsigned)&TRISC*8+5;
+[; ;pic168xa.h: 271: volatile bit TRISC4 @ (unsigned)&TRISC*8+4;
+[; ;pic168xa.h: 272: volatile bit TRISC3 @ (unsigned)&TRISC*8+3;
+[; ;pic168xa.h: 273: volatile bit TRISC2 @ (unsigned)&TRISC*8+2;
+[; ;pic168xa.h: 274: volatile bit TRISC1 @ (unsigned)&TRISC*8+1;
+[; ;pic168xa.h: 275: volatile bit TRISC0 @ (unsigned)&TRISC*8+0;
+[; ;pic168xa.h: 279: volatile bit TRISD7 @ (unsigned)&TRISD*8+7;
+[; ;pic168xa.h: 280: volatile bit TRISD6 @ (unsigned)&TRISD*8+6;
+[; ;pic168xa.h: 281: volatile bit TRISD5 @ (unsigned)&TRISD*8+5;
+[; ;pic168xa.h: 282: volatile bit TRISD4 @ (unsigned)&TRISD*8+4;
+[; ;pic168xa.h: 283: volatile bit TRISD3 @ (unsigned)&TRISD*8+3;
+[; ;pic168xa.h: 284: volatile bit TRISD2 @ (unsigned)&TRISD*8+2;
+[; ;pic168xa.h: 285: volatile bit TRISD1 @ (unsigned)&TRISD*8+1;
+[; ;pic168xa.h: 286: volatile bit TRISD0 @ (unsigned)&TRISD*8+0;
+[; ;pic168xa.h: 289: volatile bit IBF @ (unsigned)&TRISE*8+7;
+[; ;pic168xa.h: 290: volatile bit OBF @ (unsigned)&TRISE*8+6;
+[; ;pic168xa.h: 291: volatile bit IBOV @ (unsigned)&TRISE*8+5;
+[; ;pic168xa.h: 292: volatile bit PSPMODE @ (unsigned)&TRISE*8+4;
+[; ;pic168xa.h: 294: volatile bit TRISE2 @ (unsigned)&TRISE*8+2;
+[; ;pic168xa.h: 295: volatile bit TRISE1 @ (unsigned)&TRISE*8+1;
+[; ;pic168xa.h: 296: volatile bit TRISE0 @ (unsigned)&TRISE*8+0;
+[; ;pic168xa.h: 301: volatile bit PSPIE @ (unsigned)&PIE1*8+7;
+[; ;pic168xa.h: 303: volatile bit ADIE @ (unsigned)&PIE1*8+6;
+[; ;pic168xa.h: 304: volatile bit RCIE @ (unsigned)&PIE1*8+5;
+[; ;pic168xa.h: 305: volatile bit TXIE @ (unsigned)&PIE1*8+4;
+[; ;pic168xa.h: 306: volatile bit SSPIE @ (unsigned)&PIE1*8+3;
+[; ;pic168xa.h: 307: volatile bit CCP1IE @ (unsigned)&PIE1*8+2;
+[; ;pic168xa.h: 308: volatile bit TMR2IE @ (unsigned)&PIE1*8+1;
+[; ;pic168xa.h: 309: volatile bit TMR1IE @ (unsigned)&PIE1*8+0;
+[; ;pic168xa.h: 312: volatile bit CMIE @ (unsigned)&PIE2*8+6;
+[; ;pic168xa.h: 313: volatile bit EEIE @ (unsigned)&PIE2*8+4;
+[; ;pic168xa.h: 314: volatile bit BCLIE @ (unsigned)&PIE2*8+3;
+[; ;pic168xa.h: 315: volatile bit CCP2IE @ (unsigned)&PIE2*8+0;
+[; ;pic168xa.h: 318: volatile bit POR @ (unsigned)&PCON*8+1;
+[; ;pic168xa.h: 319: volatile bit BOR @ (unsigned)&PCON*8+0;
+[; ;pic168xa.h: 322: volatile bit GCEN @ (unsigned)&SSPCON2*8+7;
+[; ;pic168xa.h: 323: volatile bit ACKSTAT @ (unsigned)&SSPCON2*8+6;
+[; ;pic168xa.h: 324: volatile bit ACKDT @ (unsigned)&SSPCON2*8+5;
+[; ;pic168xa.h: 325: volatile bit ACKEN @ (unsigned)&SSPCON2*8+4;
+[; ;pic168xa.h: 326: volatile bit RCEN @ (unsigned)&SSPCON2*8+3;
+[; ;pic168xa.h: 327: volatile bit PEN @ (unsigned)&SSPCON2*8+2;
+[; ;pic168xa.h: 328: volatile bit RSEN @ (unsigned)&SSPCON2*8+1;
+[; ;pic168xa.h: 329: volatile bit SEN @ (unsigned)&SSPCON2*8+0;
+[; ;pic168xa.h: 332: volatile bit SMP @ (unsigned)&SSPSTAT*8+7;
+[; ;pic168xa.h: 333: volatile bit CKE @ (unsigned)&SSPSTAT*8+6;
+[; ;pic168xa.h: 334: volatile bit DA @ (unsigned)&SSPSTAT*8+5;
+[; ;pic168xa.h: 335: volatile bit STOP @ (unsigned)&SSPSTAT*8+4;
+[; ;pic168xa.h: 336: volatile bit START @ (unsigned)&SSPSTAT*8+3;
+[; ;pic168xa.h: 337: volatile bit RW @ (unsigned)&SSPSTAT*8+2;
+[; ;pic168xa.h: 338: volatile bit UA @ (unsigned)&SSPSTAT*8+1;
+[; ;pic168xa.h: 339: volatile bit BF @ (unsigned)&SSPSTAT*8+0;
+[; ;pic168xa.h: 352: volatile bit CSRC @ (unsigned)&TXSTA*8+7;
+[; ;pic168xa.h: 353: volatile bit TX9 @ (unsigned)&TXSTA*8+6;
+[; ;pic168xa.h: 354: volatile bit TXEN @ (unsigned)&TXSTA*8+5;
+[; ;pic168xa.h: 355: volatile bit SYNC @ (unsigned)&TXSTA*8+4;
+[; ;pic168xa.h: 356: volatile bit BRGH @ (unsigned)&TXSTA*8+2;
+[; ;pic168xa.h: 357: volatile bit TRMT @ (unsigned)&TXSTA*8+1;
+[; ;pic168xa.h: 358: volatile bit TX9D @ (unsigned)&TXSTA*8+0;
+[; ;pic168xa.h: 361: volatile bit C2OUT @ (unsigned)&CMCON*8+7;
+[; ;pic168xa.h: 362: volatile bit C1OUT @ (unsigned)&CMCON*8+6;
+[; ;pic168xa.h: 363: volatile bit C2INV @ (unsigned)&CMCON*8+5;
+[; ;pic168xa.h: 364: volatile bit C1INV @ (unsigned)&CMCON*8+4;
+[; ;pic168xa.h: 365: volatile bit CIS @ (unsigned)&CMCON*8+3;
+[; ;pic168xa.h: 366: volatile bit CM2 @ (unsigned)&CMCON*8+2;
+[; ;pic168xa.h: 367: volatile bit CM1 @ (unsigned)&CMCON*8+1;
+[; ;pic168xa.h: 368: volatile bit CM0 @ (unsigned)&CMCON*8+0;
+[; ;pic168xa.h: 371: volatile bit CVREN @ (unsigned)&CVRCON*8+7;
+[; ;pic168xa.h: 372: volatile bit CVROE @ (unsigned)&CVRCON*8+6;
+[; ;pic168xa.h: 373: volatile bit CVRR @ (unsigned)&CVRCON*8+5;
+[; ;pic168xa.h: 374: volatile bit CVR3 @ (unsigned)&CVRCON*8+3;
+[; ;pic168xa.h: 375: volatile bit CVR2 @ (unsigned)&CVRCON*8+2;
+[; ;pic168xa.h: 376: volatile bit CVR1 @ (unsigned)&CVRCON*8+1;
+[; ;pic168xa.h: 377: volatile bit CVR0 @ (unsigned)&CVRCON*8+0;
+[; ;pic168xa.h: 380: volatile bit ADFM @ (unsigned)&ADCON1*8+7;
+[; ;pic168xa.h: 381: volatile bit ADCS2 @ (unsigned)&ADCON1*8+6;
+[; ;pic168xa.h: 382: volatile bit PCFG3 @ (unsigned)&ADCON1*8+3;
+[; ;pic168xa.h: 383: volatile bit PCFG2 @ (unsigned)&ADCON1*8+2;
+[; ;pic168xa.h: 384: volatile bit PCFG1 @ (unsigned)&ADCON1*8+1;
+[; ;pic168xa.h: 385: volatile bit PCFG0 @ (unsigned)&ADCON1*8+0;
+[; ;pic168xa.h: 388: volatile bit EEPGD @ (unsigned)&EECON1*8+7;
+[; ;pic168xa.h: 389: volatile bit WRERR @ (unsigned)&EECON1*8+3;
+[; ;pic168xa.h: 390: volatile bit WREN @ (unsigned)&EECON1*8+2;
+[; ;pic168xa.h: 391: volatile bit WR @ (unsigned)&EECON1*8+1;
+[; ;pic168xa.h: 392: volatile bit RD @ (unsigned)&EECON1*8+0;
+[; ;pic.h: 504: extern void _nop(void);
+[; ;pic.h: 556: extern unsigned int flash_read(unsigned short addr);
+[; ;eeprom_routines.h: 41: extern void eeprom_write(unsigned char addr, unsigned char value);
+[; ;eeprom_routines.h: 42: extern unsigned char eeprom_read(unsigned char addr);
+[; ;pic.h: 630: extern void _delay(unsigned long);
+"13 C:\Users\Phang\Desktop\PR 17B\PR17B.c
+[; ;PR17B.c: 13: asm("\tpsect config,class=CONFIG,delta=2"); asm("\tdw ""0x3F3A");
+[; 	psect config,class=CONFIG,delta=2 ;#
+[; 	dw 0x3F3A ;#
+[; ;PR17B.c: 27: void Init(void);
+[; ;PR17B.c: 28: void delay(unsigned long data);
+[; ;PR17B.c: 29: void tmr_delay(unsigned short lenght);
+[; ;PR17B.c: 30: void send_config(unsigned char data);
+[; ;PR17B.c: 31: void send_char(unsigned char data);
+[; ;PR17B.c: 32: void lcd_goto(unsigned char data);
+[; ;PR17B.c: 33: void lcd_clr(void);
+[; ;PR17B.c: 34: void send_string(const char *s);
+[; ;PR17B.c: 35: void e_pulse(void);
+[; ;PR17B.c: 36: void spi_initialize(void);
+[; ;PR17B.c: 37: unsigned char uc_send_receive_spi(unsigned char uc_data);
+[; ;PR17B.c: 38: void Spi(void);
+[; ;PR17B.c: 39: void Stand(void);
+[; ;PR17B.c: 40: void Play(void);
+[; ;PR17B.c: 41: void Record(void);
+[; ;PR17B.c: 42: void message1p(void);
+[; ;PR17B.c: 43: void message2p(void);
+[; ;PR17B.c: 44: void message1r(void);
+[; ;PR17B.c: 45: void message2r(void);
+[; ;PR17B.c: 46: void Play_s(void);
+[; ;PR17B.c: 47: void Record_s(void);
+[; ;PR17B.c: 48: void Forward(void);
+[; ;PR17B.c: 49: void start(void);
+[; ;PR17B.c: 50: void stop(void);
+[; ;PR17B.c: 51: void Erase(void);
+[; ;PR17B.c: 52: void g_erase(void);
+[; ;PR17B.c: 53: void erase(void);
+[; ;PR17B.c: 54: void Volume(void);
+[; ;PR17B.c: 55: void msg_1(void);
+[; ;PR17B.c: 56: void mic(void);
+[; ;PR17B.c: 57: void analog(void);
+[; ;PR17B.c: 58: void location(void);
+[; ;PR17B.c: 59: void Option(void);
+[; ;PR17B.c: 64: unsigned char status;
+[; ;PR17B.c: 65: unsigned char msg;
+[; ;PR17B.c: 66: unsigned char pointer;
+"67
+[i _SPI
+:U ..
+-> 49 `c
+-> 46 `c
+-> 83 `c
+-> 80 `c
+-> 73 `c
+-> 32 `c
+-> 77 `c
+-> 79 `c
+-> 68 `c
+-> 69 `c
+-> 0 `c
+..
+]
+[; ;PR17B.c: 67: const unsigned char SPI [] = {"1.SPI MODE"};
+"68
+[i _STD
+:U ..
+-> 50 `c
+-> 46 `c
+-> 83 `c
+-> 84 `c
+-> 65 `c
+-> 78 `c
+-> 68 `c
+-> 65 `c
+-> 76 `c
+-> 79 `c
+-> 78 `c
+-> 69 `c
+-> 0 `c
+..
+]
+[; ;PR17B.c: 68: const unsigned char STD[] = {"2.STANDALONE"};
+"69
+[i _ERASE
+:U ..
+-> 51 `c
+-> 46 `c
+-> 69 `c
+-> 82 `c
+-> 65 `c
+-> 83 `c
+-> 69 `c
+-> 0 `c
+..
+]
+[; ;PR17B.c: 69: const unsigned char ERASE [] = {"3.ERASE"};
+"70
+[i _mode
+:U ..
+&U *U + &U _SPI * -> -> -> 0 `i `ui `ux -> -> # *U &U _SPI `ui `ux
+&U *U + &U _STD * -> -> -> 0 `i `ui `ux -> -> # *U &U _STD `ui `ux
+&U *U + &U _ERASE * -> -> -> 0 `i `ui `ux -> -> # *U &U _ERASE `ui `ux
+..
+]
+[; ;PR17B.c: 70: const unsigned char *mode [4] = {&SPI[0],&STD[0],&ERASE[0]};
+"78
+[v _main `(v 1 ef ]
+{
+[; ;PR17B.c: 77: void main(void)
+[; ;PR17B.c: 78: {
+[e :U _main ]
+[f ]
+"79
+[v _j `uc 1 a ]
+[; ;PR17B.c: 79: unsigned char j=0;
+[e = _j -> -> 0 `i `uc ]
+[; ;PR17B.c: 81: Init();
+"81
+[e ( _Init ..  ]
+[; ;PR17B.c: 82: lcd_clr();
+"82
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 83: lcd_goto(0);
+"83
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 84: send_string("Select mode");
+"84
+[e ( _send_string (1 :s 1C ]
+[; ;PR17B.c: 85: lcd_goto(20);
+"85
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 86: send_string(mode[j]);
+"86
+[e ( _send_string (1 *U + &U _mode * -> _j `ux -> -> # *U &U _mode `ui `ux ]
+[; ;PR17B.c: 88: while(1)
+"88
+[e :U 3 ]
+[; ;PR17B.c: 89: {
+"89
+{
+[; ;PR17B.c: 90: if( RD5 == 0)
+"90
+[e $ ! == -> _RD5 `i -> 0 `i 5  ]
+[; ;PR17B.c: 91: {
+"91
+{
+[; ;PR17B.c: 92: while(RD5 == 0) continue;
+"92
+[e $U 6  ]
+[e :U 7 ]
+[e $U 6  ]
+[e :U 6 ]
+[e $ == -> _RD5 `i -> 0 `i 7  ]
+[e :U 8 ]
+[; ;PR17B.c: 93: j++;
+"93
+[e ++ _j -> -> 1 `i `uc ]
+[; ;PR17B.c: 94: if(j>2) j =0;
+"94
+[e $ ! > -> _j `i -> 2 `i 9  ]
+[e = _j -> -> 0 `i `uc ]
+[e :U 9 ]
+[; ;PR17B.c: 95: lcd_goto(20);
+"95
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 96: send_string(mode[j]);
+"96
+[e ( _send_string (1 *U + &U _mode * -> _j `ux -> -> # *U &U _mode `ui `ux ]
+[; ;PR17B.c: 97: send_string("            ");
+"97
+[e ( _send_string (1 :s 2C ]
+"98
+}
+[e :U 5 ]
+[; ;PR17B.c: 98: }
+[; ;PR17B.c: 99: if(RD4 == 0)
+"99
+[e $ ! == -> _RD4 `i -> 0 `i 10  ]
+[; ;PR17B.c: 100: {
+"100
+{
+[; ;PR17B.c: 101: while(RD4 == 0)continue;
+"101
+[e $U 11  ]
+[e :U 12 ]
+[e $U 11  ]
+[e :U 11 ]
+[e $ == -> _RD4 `i -> 0 `i 12  ]
+[e :U 13 ]
+[; ;PR17B.c: 102: switch(j)
+"102
+[e $U 15  ]
+[; ;PR17B.c: 103: {
+"103
+{
+[; ;PR17B.c: 105: case 1 : Stand();
+"105
+[e :U 16 ]
+[e ( _Stand ..  ]
+[; ;PR17B.c: 106: break;
+"106
+[e $U 14  ]
+[; ;PR17B.c: 107: case 2 : Erase();
+"107
+[e :U 17 ]
+[e ( _Erase ..  ]
+[; ;PR17B.c: 108: break;
+"108
+[e $U 14  ]
+[; ;PR17B.c: 109: default : Spi();
+"109
+[e :U 18 ]
+[e ( _Spi ..  ]
+[; ;PR17B.c: 110: j=0;
+"110
+[e = _j -> -> 0 `i `uc ]
+"111
+}
+[; ;PR17B.c: 111: }
+[e $U 14  ]
+"102
+[e :U 15 ]
+[e [\ _j , $ -> -> 1 `i `uc 16
+ , $ -> -> 2 `i `uc 17
+ 18 ]
+"111
+[e :U 14 ]
+"112
+}
+[e :U 10 ]
+"113
+}
+[e :U 2 ]
+"88
+[e $U 3  ]
+[e :U 4 ]
+[; ;PR17B.c: 112: }
+[; ;PR17B.c: 113: }
+[; ;PR17B.c: 114: }
+"114
+[e :UE 1 ]
+}
+"119
+[v _Init `(v 1 ef ]
+{
+[; ;PR17B.c: 118: void Init(void)
+[; ;PR17B.c: 119: {
+[e :U _Init ]
+[f ]
+[; ;PR17B.c: 120: TRISA = 0b00000000;
+"120
+[e = _TRISA -> -> 0 `i `uc ]
+[; ;PR17B.c: 121: TRISB = 0b00000000;
+"121
+[e = _TRISB -> -> 0 `i `uc ]
+[; ;PR17B.c: 122: TRISC = 0b00000000;
+"122
+[e = _TRISC -> -> 0 `i `uc ]
+[; ;PR17B.c: 123: TRISD = 0b00110000;
+"123
+[e = _TRISD -> -> 48 `i `uc ]
+[; ;PR17B.c: 124: TRISE = 0x00;
+"124
+[e = _TRISE -> -> 0 `i `uc ]
+[; ;PR17B.c: 125: PORTA = 0;
+"125
+[e = _PORTA -> -> 0 `i `uc ]
+[; ;PR17B.c: 126: PORTD = 0;
+"126
+[e = _PORTD -> -> 0 `i `uc ]
+[; ;PR17B.c: 127: PORTE = 0;
+"127
+[e = _PORTE -> -> 0 `i `uc ]
+[; ;PR17B.c: 128: ADCON1 = 0b00000110;
+"128
+[e = _ADCON1 -> -> 6 `i `uc ]
+[; ;PR17B.c: 129: RD3 = 1;
+"129
+[e = _RD3 -> -> 1 `i `b ]
+[; ;PR17B.c: 130: RA0 = 1;
+"130
+[e = _RA0 -> -> 1 `i `b ]
+[; ;PR17B.c: 131: RC0 = 1;
+"131
+[e = _RC0 -> -> 1 `i `b ]
+[; ;PR17B.c: 132: RE2 = 1;
+"132
+[e = _RE2 -> -> 1 `i `b ]
+[; ;PR17B.c: 134: send_config(0b00000001);
+"134
+[e ( _send_config (1 -> -> 1 `i `uc ]
+[; ;PR17B.c: 135: send_config(0b00000010);
+"135
+[e ( _send_config (1 -> -> 2 `i `uc ]
+[; ;PR17B.c: 136: send_config(0b00000110);
+"136
+[e ( _send_config (1 -> -> 6 `i `uc ]
+[; ;PR17B.c: 137: send_config(0b00001100);
+"137
+[e ( _send_config (1 -> -> 12 `i `uc ]
+[; ;PR17B.c: 138: send_config(0b00111000);
+"138
+[e ( _send_config (1 -> -> 56 `i `uc ]
+[; ;PR17B.c: 142: T0CS = 0;
+"142
+[e = _T0CS -> -> 0 `i `b ]
+[; ;PR17B.c: 143: PSA = 0;
+"143
+[e = _PSA -> -> 0 `i `b ]
+[; ;PR17B.c: 144: PS2 = 1;
+"144
+[e = _PS2 -> -> 1 `i `b ]
+[; ;PR17B.c: 145: PS1 = 1;
+"145
+[e = _PS1 -> -> 1 `i `b ]
+[; ;PR17B.c: 146: PS0 = 1;
+"146
+[e = _PS0 -> -> 1 `i `b ]
+[; ;PR17B.c: 148: spi_initialize();
+"148
+[e ( _spi_initialize ..  ]
+[; ;PR17B.c: 151: RE1 = 0;
+"151
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 152: uc_send_receive_spi(0b10000000);
+"152
+[e ( _uc_send_receive_spi (1 -> -> 128 `i `uc ]
+[; ;PR17B.c: 153: uc_send_receive_spi(0b00000000);
+"153
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 154: RE1 = 1;
+"154
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 156: tmr_delay(10);
+"156
+[e ( _tmr_delay (1 -> -> 10 `i `us ]
+[; ;PR17B.c: 158: RE1 = 0;
+"158
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 159: uc_send_receive_spi(0b11000000);
+"159
+[e ( _uc_send_receive_spi (1 -> -> 192 `i `uc ]
+[; ;PR17B.c: 160: uc_send_receive_spi(0b00000000);
+"160
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 161: RE1 = 1;
+"161
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 163: tmr_delay(10);
+"163
+[e ( _tmr_delay (1 -> -> 10 `i `us ]
+[; ;PR17B.c: 165: RE1 = 0;
+"165
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 166: uc_send_receive_spi(0b11100000);
+"166
+[e ( _uc_send_receive_spi (1 -> -> 224 `i `uc ]
+[; ;PR17B.c: 167: uc_send_receive_spi(0b00000000);
+"167
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 168: RE1 = 1;
+"168
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 169: }
+"169
+[e :UE 19 ]
+}
+"173
+[v _spi_initialize `(v 1 ef ]
+{
+[; ;PR17B.c: 172: void spi_initialize(void)
+[; ;PR17B.c: 173: {
+[e :U _spi_initialize ]
+[f ]
+[; ;PR17B.c: 175: TRISC5 = 0;
+"175
+[e = _TRISC5 -> -> 0 `i `b ]
+[; ;PR17B.c: 178: SMP = 0;
+"178
+[e = _SMP -> -> 0 `i `b ]
+[; ;PR17B.c: 181: CKE = 0;
+"181
+[e = _CKE -> -> 0 `i `b ]
+[; ;PR17B.c: 182: CKP = 1;
+"182
+[e = _CKP -> -> 1 `i `b ]
+[; ;PR17B.c: 185: SSPM3 = 0;
+"185
+[e = _SSPM3 -> -> 0 `i `b ]
+[; ;PR17B.c: 186: SSPM2 = 0;
+"186
+[e = _SSPM2 -> -> 0 `i `b ]
+[; ;PR17B.c: 187: SSPM1 = 0;
+"187
+[e = _SSPM1 -> -> 0 `i `b ]
+[; ;PR17B.c: 188: SSPM0 = 0;
+"188
+[e = _SSPM0 -> -> 0 `i `b ]
+[; ;PR17B.c: 191: WCOL = 0;
+"191
+[e = _WCOL -> -> 0 `i `b ]
+[; ;PR17B.c: 194: SSPEN = 1;
+"194
+[e = _SSPEN -> -> 1 `i `b ]
+[; ;PR17B.c: 195: }
+"195
+[e :UE 20 ]
+}
+"200
+[v _uc_send_receive_spi `(uc 1 ef1`uc ]
+{
+[; ;PR17B.c: 199: unsigned char uc_send_receive_spi(unsigned char uc_data)
+[; ;PR17B.c: 200: {
+[e :U _uc_send_receive_spi ]
+[v _uc_data `uc 1 r1 ]
+[f ]
+[; ;PR17B.c: 203: SSPBUF = uc_data;
+"203
+[e = _SSPBUF _uc_data ]
+[; ;PR17B.c: 206: while(BF == 0);
+"206
+[e $U 22  ]
+[e :U 23 ]
+[e :U 22 ]
+[e $ == -> _BF `i -> 0 `i 23  ]
+[e :U 24 ]
+[; ;PR17B.c: 209: return SSPBUF;
+"209
+[e ) _SSPBUF ]
+[e $UE 21  ]
+[; ;PR17B.c: 210: }
+"210
+[e :UE 21 ]
+}
+"213
+[v _delay `(v 1 ef1`ul ]
+{
+[; ;PR17B.c: 212: void delay(unsigned long data)
+[; ;PR17B.c: 213: {
+[e :U _delay ]
+[v _data `ul 1 r1 ]
+[f ]
+[; ;PR17B.c: 214: for( ;data>0;data-=1);
+"214
+{
+[e $ > _data -> -> -> 0 `i `l `ul 26  ]
+[e $U 27  ]
+[e :U 26 ]
+[e =- _data -> -> -> 1 `i `l `ul ]
+[e $ > _data -> -> -> 0 `i `l `ul 26  ]
+[e :U 27 ]
+}
+[; ;PR17B.c: 215: }
+"215
+[e :UE 25 ]
+}
+"218
+[v _tmr_delay `(v 1 ef1`us ]
+{
+[; ;PR17B.c: 217: void tmr_delay(unsigned short lenght)
+[; ;PR17B.c: 218: {
+[e :U _tmr_delay ]
+[v _lenght `us 1 r1 ]
+[f ]
+[; ;PR17B.c: 219: for( ;lenght>0;lenght-=1)
+"219
+{
+[e $ > -> _lenght `ui -> -> 0 `i `ui 30  ]
+[e $U 31  ]
+"220
+[e :U 30 ]
+[; ;PR17B.c: 220: {
+{
+[; ;PR17B.c: 221: TMR0=0;
+"221
+[e = _TMR0 -> -> 0 `i `uc ]
+[; ;PR17B.c: 222: while(TMR0<195);
+"222
+[e $U 33  ]
+[e :U 34 ]
+[e :U 33 ]
+[e $ < -> _TMR0 `i -> 195 `i 34  ]
+[e :U 35 ]
+"223
+}
+"219
+[e =- _lenght -> -> 1 `i `us ]
+[e $ > -> _lenght `ui -> -> 0 `i `ui 30  ]
+[e :U 31 ]
+"223
+}
+[; ;PR17B.c: 223: }
+[; ;PR17B.c: 224: }
+"224
+[e :UE 29 ]
+}
+"227
+[v _send_config `(v 1 ef1`uc ]
+{
+[; ;PR17B.c: 226: void send_config(unsigned char data)
+[; ;PR17B.c: 227: {
+[e :U _send_config ]
+[v _data `uc 1 r1 ]
+[f ]
+[; ;PR17B.c: 228: RD6=0;
+"228
+[e = _RD6 -> -> 0 `i `b ]
+[; ;PR17B.c: 229: PORTB=data;
+"229
+[e = _PORTB _data ]
+[; ;PR17B.c: 230: delay(50);
+"230
+[e ( _delay (1 -> -> -> 50 `i `l `ul ]
+[; ;PR17B.c: 231: e_pulse();
+"231
+[e ( _e_pulse ..  ]
+[; ;PR17B.c: 232: }
+"232
+[e :UE 36 ]
+}
+"235
+[v _send_char `(v 1 ef1`uc ]
+{
+[; ;PR17B.c: 234: void send_char(unsigned char data)
+[; ;PR17B.c: 235: {
+[e :U _send_char ]
+[v _data `uc 1 r1 ]
+[f ]
+[; ;PR17B.c: 236: RD6=1;
+"236
+[e = _RD6 -> -> 1 `i `b ]
+[; ;PR17B.c: 237: PORTB=data;
+"237
+[e = _PORTB _data ]
+[; ;PR17B.c: 238: delay(50);
+"238
+[e ( _delay (1 -> -> -> 50 `i `l `ul ]
+[; ;PR17B.c: 239: e_pulse();
+"239
+[e ( _e_pulse ..  ]
+[; ;PR17B.c: 240: }
+"240
+[e :UE 37 ]
+}
+"243
+[v _e_pulse `(v 1 ef ]
+{
+[; ;PR17B.c: 242: void e_pulse(void)
+[; ;PR17B.c: 243: {
+[e :U _e_pulse ]
+[f ]
+[; ;PR17B.c: 244: RD7=1;
+"244
+[e = _RD7 -> -> 1 `i `b ]
+[; ;PR17B.c: 245: delay(50);
+"245
+[e ( _delay (1 -> -> -> 50 `i `l `ul ]
+[; ;PR17B.c: 246: RD7=0;
+"246
+[e = _RD7 -> -> 0 `i `b ]
+[; ;PR17B.c: 247: delay(50);
+"247
+[e ( _delay (1 -> -> -> 50 `i `l `ul ]
+[; ;PR17B.c: 248: }
+"248
+[e :UE 38 ]
+}
+"251
+[v _lcd_goto `(v 1 ef1`uc ]
+{
+[; ;PR17B.c: 250: void lcd_goto(unsigned char data)
+[; ;PR17B.c: 251: {
+[e :U _lcd_goto ]
+[v _data `uc 1 r1 ]
+[f ]
+[; ;PR17B.c: 252: if(data<16)
+"252
+[e $ ! < -> _data `i -> 16 `i 40  ]
+[; ;PR17B.c: 253: {
+"253
+{
+[; ;PR17B.c: 254: send_config(0x80+data);
+"254
+[e ( _send_config (1 -> + -> 128 `i -> _data `i `uc ]
+"255
+}
+[; ;PR17B.c: 255: }
+[e $U 41  ]
+"256
+[e :U 40 ]
+[; ;PR17B.c: 256: else
+[; ;PR17B.c: 257: {
+"257
+{
+[; ;PR17B.c: 258: data=data-20;
+"258
+[e = _data -> - -> _data `i -> 20 `i `uc ]
+[; ;PR17B.c: 259: send_config(0xc0+data);
+"259
+[e ( _send_config (1 -> + -> 192 `i -> _data `i `uc ]
+"260
+}
+[e :U 41 ]
+[; ;PR17B.c: 260: }
+[; ;PR17B.c: 261: }
+"261
+[e :UE 39 ]
+}
+"264
+[v _lcd_clr `(v 1 ef ]
+{
+[; ;PR17B.c: 263: void lcd_clr(void)
+[; ;PR17B.c: 264: {
+[e :U _lcd_clr ]
+[f ]
+[; ;PR17B.c: 265: send_config(0x01);
+"265
+[e ( _send_config (1 -> -> 1 `i `uc ]
+[; ;PR17B.c: 266: delay(50);
+"266
+[e ( _delay (1 -> -> -> 50 `i `l `ul ]
+[; ;PR17B.c: 267: }
+"267
+[e :UE 42 ]
+}
+"270
+[v _send_string `(v 1 ef1`*Cuc ]
+{
+[; ;PR17B.c: 269: void send_string(const char *s)
+[; ;PR17B.c: 270: {
+[e :U _send_string ]
+[v _s `*Cuc 1 r1 ]
+[f ]
+[; ;PR17B.c: 272: while (s && *s)send_char (*s++);
+"272
+[e $U 44  ]
+[e :U 45 ]
+[e ( _send_char (1 *U ++ _s * -> -> 1 `i `x -> -> # *U _s `i `x ]
+[e :U 44 ]
+[e $ && != _s -> -> 0 `i `*Cuc != -> *U _s `i -> -> -> 0 `i `Cuc `i 45  ]
+[e :U 46 ]
+[; ;PR17B.c: 274: }
+"274
+[e :UE 43 ]
+}
+"277
+[v _Spi `(v 1 ef ]
+{
+[; ;PR17B.c: 276: void Spi(void)
+[; ;PR17B.c: 277: { char i =1;
+[e :U _Spi ]
+[f ]
+[v _i `uc 1 a ]
+[e = _i -> -> 1 `i `uc ]
+[; ;PR17B.c: 278: RE1 = 0;
+"278
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 279: uc_send_receive_spi(0b10000000);
+"279
+[e ( _uc_send_receive_spi (1 -> -> 128 `i `uc ]
+[; ;PR17B.c: 280: uc_send_receive_spi(0b00000000);
+"280
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 281: RE1 = 1;
+"281
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 282: tmr_delay(10);
+"282
+[e ( _tmr_delay (1 -> -> 10 `i `us ]
+[; ;PR17B.c: 283: RD3 = 1;
+"283
+[e = _RD3 -> -> 1 `i `b ]
+[; ;PR17B.c: 284: lcd_clr();
+"284
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 285: lcd_goto(0);
+"285
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 286: send_string("Switch mode");
+"286
+[e ( _send_string (1 :s 3C ]
+[; ;PR17B.c: 287: lcd_goto(20);
+"287
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 288: send_string("1. PLAY   ");
+"288
+[e ( _send_string (1 :s 4C ]
+[; ;PR17B.c: 289: while(1)
+"289
+[e :U 49 ]
+[; ;PR17B.c: 290: {
+"290
+{
+[; ;PR17B.c: 291: if(RD5 == 0)
+"291
+[e $ ! == -> _RD5 `i -> 0 `i 51  ]
+[; ;PR17B.c: 292: {
+"292
+{
+[; ;PR17B.c: 293: while(RD5 == 0) continue;
+"293
+[e $U 52  ]
+[e :U 53 ]
+[e $U 52  ]
+[e :U 52 ]
+[e $ == -> _RD5 `i -> 0 `i 53  ]
+[e :U 54 ]
+[; ;PR17B.c: 294: i++;
+"294
+[e ++ _i -> -> 1 `i `uc ]
+[; ;PR17B.c: 295: lcd_goto(20);
+"295
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 296: switch (i)
+"296
+[e $U 56  ]
+[; ;PR17B.c: 297: {
+"297
+{
+[; ;PR17B.c: 298: case 2 : send_string("2. RECORD");
+"298
+[e :U 57 ]
+[e ( _send_string (1 :s 5C ]
+[; ;PR17B.c: 299: break;
+"299
+[e $U 55  ]
+[; ;PR17B.c: 301: default: send_string("1. PLAY   ");
+"301
+[e :U 58 ]
+[e ( _send_string (1 :s 6C ]
+[; ;PR17B.c: 302: i =1;
+"302
+[e = _i -> -> 1 `i `uc ]
+"303
+}
+[; ;PR17B.c: 303: }
+[e $U 55  ]
+"296
+[e :U 56 ]
+[e [\ _i , $ -> -> 2 `i `uc 57
+ 58 ]
+"303
+[e :U 55 ]
+"304
+}
+[e :U 51 ]
+[; ;PR17B.c: 304: }
+[; ;PR17B.c: 305: if(RD4 == 0)
+"305
+[e $ ! == -> _RD4 `i -> 0 `i 59  ]
+[; ;PR17B.c: 306: {
+"306
+{
+[; ;PR17B.c: 307: while(RD4 == 0) continue;
+"307
+[e $U 60  ]
+[e :U 61 ]
+[e $U 60  ]
+[e :U 60 ]
+[e $ == -> _RD4 `i -> 0 `i 61  ]
+[e :U 62 ]
+[; ;PR17B.c: 308: switch (i)
+"308
+[e $U 64  ]
+[; ;PR17B.c: 309: {
+"309
+{
+[; ;PR17B.c: 310: case 2 : Record();
+"310
+[e :U 65 ]
+[e ( _Record ..  ]
+[; ;PR17B.c: 311: break;
+"311
+[e $U 63  ]
+[; ;PR17B.c: 312: default : Play();
+"312
+[e :U 66 ]
+[e ( _Play ..  ]
+[; ;PR17B.c: 313: i = 1;
+"313
+[e = _i -> -> 1 `i `uc ]
+"314
+}
+[; ;PR17B.c: 314: }
+[e $U 63  ]
+"308
+[e :U 64 ]
+[e [\ _i , $ -> -> 2 `i `uc 65
+ 66 ]
+"314
+[e :U 63 ]
+"316
+}
+[e :U 59 ]
+"317
+}
+[e :U 48 ]
+"289
+[e $U 49  ]
+[e :U 50 ]
+[; ;PR17B.c: 316: }
+[; ;PR17B.c: 317: }
+[; ;PR17B.c: 318: }
+"318
+[e :UE 47 ]
+}
+"321
+[v _Stand `(v 1 ef ]
+{
+[; ;PR17B.c: 320: void Stand(void)
+[; ;PR17B.c: 321: {
+[e :U _Stand ]
+[f ]
+"322
+[v _i `uc 1 a ]
+[; ;PR17B.c: 322: char i =1;
+[e = _i -> -> 1 `i `uc ]
+[; ;PR17B.c: 323: RE1 = 0;
+"323
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 324: uc_send_receive_spi(0b11100000);
+"324
+[e ( _uc_send_receive_spi (1 -> -> 224 `i `uc ]
+[; ;PR17B.c: 325: uc_send_receive_spi(0b00000000);
+"325
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 326: RE1 = 1;
+"326
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 328: lcd_clr();
+"328
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 329: lcd_goto(0);
+"329
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 330: send_string("Switch mode");
+"330
+[e ( _send_string (1 :s 7C ]
+[; ;PR17B.c: 331: lcd_goto(20);
+"331
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 332: send_string("1. Forward");
+"332
+[e ( _send_string (1 :s 8C ]
+[; ;PR17B.c: 333: while(1)
+"333
+[e :U 69 ]
+[; ;PR17B.c: 334: {
+"334
+{
+[; ;PR17B.c: 335: if(RD5 == 0)
+"335
+[e $ ! == -> _RD5 `i -> 0 `i 71  ]
+[; ;PR17B.c: 336: {
+"336
+{
+[; ;PR17B.c: 337: while(RD5 == 0) continue;
+"337
+[e $U 72  ]
+[e :U 73 ]
+[e $U 72  ]
+[e :U 72 ]
+[e $ == -> _RD5 `i -> 0 `i 73  ]
+[e :U 74 ]
+[; ;PR17B.c: 338: i++;
+"338
+[e ++ _i -> -> 1 `i `uc ]
+[; ;PR17B.c: 339: lcd_goto(20);
+"339
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 340: switch (i)
+"340
+[e $U 76  ]
+[; ;PR17B.c: 341: {
+"341
+{
+[; ;PR17B.c: 342: case 2 : send_string("2. Play    ");
+"342
+[e :U 77 ]
+[e ( _send_string (1 :s 9C ]
+[; ;PR17B.c: 343: break;
+"343
+[e $U 75  ]
+[; ;PR17B.c: 344: case 3 : send_string("3. Record  ");
+"344
+[e :U 78 ]
+[e ( _send_string (1 :s 10C ]
+[; ;PR17B.c: 345: break;
+"345
+[e $U 75  ]
+[; ;PR17B.c: 346: default: send_string("1. Forward ");
+"346
+[e :U 79 ]
+[e ( _send_string (1 :s 11C ]
+[; ;PR17B.c: 347: i =1;
+"347
+[e = _i -> -> 1 `i `uc ]
+"348
+}
+[; ;PR17B.c: 348: }
+[e $U 75  ]
+"340
+[e :U 76 ]
+[e [\ _i , $ -> -> 2 `i `uc 77
+ , $ -> -> 3 `i `uc 78
+ 79 ]
+"348
+[e :U 75 ]
+"349
+}
+[e :U 71 ]
+[; ;PR17B.c: 349: }
+[; ;PR17B.c: 350: if(RD4 == 0)
+"350
+[e $ ! == -> _RD4 `i -> 0 `i 80  ]
+[; ;PR17B.c: 351: {
+"351
+{
+[; ;PR17B.c: 352: while(RD4 == 0) continue;
+"352
+[e $U 81  ]
+[e :U 82 ]
+[e $U 81  ]
+[e :U 81 ]
+[e $ == -> _RD4 `i -> 0 `i 82  ]
+[e :U 83 ]
+[; ;PR17B.c: 353: switch (i)
+"353
+[e $U 85  ]
+[; ;PR17B.c: 354: {
+"354
+{
+[; ;PR17B.c: 355: case 2 : Play_s();
+"355
+[e :U 86 ]
+[e ( _Play_s ..  ]
+[; ;PR17B.c: 356: break;
+"356
+[e $U 84  ]
+[; ;PR17B.c: 357: case 3 : Option();
+"357
+[e :U 87 ]
+[e ( _Option ..  ]
+[; ;PR17B.c: 358: break;
+"358
+[e $U 84  ]
+[; ;PR17B.c: 359: default : Forward();
+"359
+[e :U 88 ]
+[e ( _Forward ..  ]
+[; ;PR17B.c: 360: i = 1;
+"360
+[e = _i -> -> 1 `i `uc ]
+"361
+}
+[; ;PR17B.c: 361: }
+[e $U 84  ]
+"353
+[e :U 85 ]
+[e [\ _i , $ -> -> 2 `i `uc 86
+ , $ -> -> 3 `i `uc 87
+ 88 ]
+"361
+[e :U 84 ]
+"363
+}
+[e :U 80 ]
+"364
+}
+[e :U 68 ]
+"333
+[e $U 69  ]
+[e :U 70 ]
+[; ;PR17B.c: 363: }
+[; ;PR17B.c: 364: }
+[; ;PR17B.c: 365: }
+"365
+[e :UE 67 ]
+}
+"368
+[v _Play `(v 1 ef ]
+{
+[; ;PR17B.c: 367: void Play(void)
+[; ;PR17B.c: 368: {
+[e :U _Play ]
+[f ]
+"369
+[v _i `uc 1 a ]
+[; ;PR17B.c: 369: char i =1;
+[e = _i -> -> 1 `i `uc ]
+[; ;PR17B.c: 370: lcd_clr();
+"370
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 371: lcd_goto(0);
+"371
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 372: send_string("Location");
+"372
+[e ( _send_string (1 :s 12C ]
+[; ;PR17B.c: 373: lcd_goto(20);
+"373
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 374: send_string("1. Message 1   ");
+"374
+[e ( _send_string (1 :s 13C ]
+[; ;PR17B.c: 375: while(1)
+"375
+[e :U 91 ]
+[; ;PR17B.c: 376: {
+"376
+{
+[; ;PR17B.c: 377: if(RD5 == 0)
+"377
+[e $ ! == -> _RD5 `i -> 0 `i 93  ]
+[; ;PR17B.c: 378: {
+"378
+{
+[; ;PR17B.c: 379: while(RD5 == 0) continue;
+"379
+[e $U 94  ]
+[e :U 95 ]
+[e $U 94  ]
+[e :U 94 ]
+[e $ == -> _RD5 `i -> 0 `i 95  ]
+[e :U 96 ]
+[; ;PR17B.c: 380: i++;
+"380
+[e ++ _i -> -> 1 `i `uc ]
+[; ;PR17B.c: 381: lcd_goto(20);
+"381
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 382: switch (i)
+"382
+[e $U 98  ]
+[; ;PR17B.c: 383: {
+"383
+{
+[; ;PR17B.c: 384: case 2 : send_string("2. Message 2");
+"384
+[e :U 99 ]
+[e ( _send_string (1 :s 14C ]
+[; ;PR17B.c: 385: break;
+"385
+[e $U 97  ]
+[; ;PR17B.c: 387: default: send_string("1. Message 1   ");
+"387
+[e :U 100 ]
+[e ( _send_string (1 :s 15C ]
+[; ;PR17B.c: 388: i =1;
+"388
+[e = _i -> -> 1 `i `uc ]
+"389
+}
+[; ;PR17B.c: 389: }
+[e $U 97  ]
+"382
+[e :U 98 ]
+[e [\ _i , $ -> -> 2 `i `uc 99
+ 100 ]
+"389
+[e :U 97 ]
+"390
+}
+[e :U 93 ]
+[; ;PR17B.c: 390: }
+[; ;PR17B.c: 391: if(RD4 == 0)
+"391
+[e $ ! == -> _RD4 `i -> 0 `i 101  ]
+[; ;PR17B.c: 392: {
+"392
+{
+[; ;PR17B.c: 393: while(RD4 == 0) continue;
+"393
+[e $U 102  ]
+[e :U 103 ]
+[e $U 102  ]
+[e :U 102 ]
+[e $ == -> _RD4 `i -> 0 `i 103  ]
+[e :U 104 ]
+[; ;PR17B.c: 394: switch (i)
+"394
+[e $U 106  ]
+[; ;PR17B.c: 395: {
+"395
+{
+[; ;PR17B.c: 396: case 2 : message2p();
+"396
+[e :U 107 ]
+[e ( _message2p ..  ]
+[; ;PR17B.c: 397: break;
+"397
+[e $U 105  ]
+[; ;PR17B.c: 398: default : message1p();
+"398
+[e :U 108 ]
+[e ( _message1p ..  ]
+[; ;PR17B.c: 399: i = 1;
+"399
+[e = _i -> -> 1 `i `uc ]
+"400
+}
+[; ;PR17B.c: 400: }
+[e $U 105  ]
+"394
+[e :U 106 ]
+[e [\ _i , $ -> -> 2 `i `uc 107
+ 108 ]
+"400
+[e :U 105 ]
+"402
+}
+[e :U 101 ]
+"403
+}
+[e :U 90 ]
+"375
+[e $U 91  ]
+[e :U 92 ]
+[; ;PR17B.c: 402: }
+[; ;PR17B.c: 403: }
+[; ;PR17B.c: 404: }
+"404
+[e :UE 89 ]
+}
+"407
+[v _Record `(v 1 ef ]
+{
+[; ;PR17B.c: 406: void Record(void)
+[; ;PR17B.c: 407: {
+[e :U _Record ]
+[f ]
+"408
+[v _i `uc 1 a ]
+[; ;PR17B.c: 408: char i =1;
+[e = _i -> -> 1 `i `uc ]
+[; ;PR17B.c: 409: lcd_clr();
+"409
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 410: lcd_goto(0);
+"410
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 411: send_string("Option");
+"411
+[e ( _send_string (1 :s 16C ]
+[; ;PR17B.c: 412: lcd_goto(20);
+"412
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 413: send_string("1. Analog Input");
+"413
+[e ( _send_string (1 :s 17C ]
+[; ;PR17B.c: 414: while(1)
+"414
+[e :U 111 ]
+[; ;PR17B.c: 415: {
+"415
+{
+[; ;PR17B.c: 416: if(RD5 == 0)
+"416
+[e $ ! == -> _RD5 `i -> 0 `i 113  ]
+[; ;PR17B.c: 417: {
+"417
+{
+[; ;PR17B.c: 418: while(RD5 == 0) continue;
+"418
+[e $U 114  ]
+[e :U 115 ]
+[e $U 114  ]
+[e :U 114 ]
+[e $ == -> _RD5 `i -> 0 `i 115  ]
+[e :U 116 ]
+[; ;PR17B.c: 419: i++;
+"419
+[e ++ _i -> -> 1 `i `uc ]
+[; ;PR17B.c: 420: lcd_goto(20);
+"420
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 421: switch (i)
+"421
+[e $U 118  ]
+[; ;PR17B.c: 422: {
+"422
+{
+[; ;PR17B.c: 423: case 2 : send_string("2. MIC         ");
+"423
+[e :U 119 ]
+[e ( _send_string (1 :s 18C ]
+[; ;PR17B.c: 424: break;
+"424
+[e $U 117  ]
+[; ;PR17B.c: 425: default: send_string("1. Analog Input");
+"425
+[e :U 120 ]
+[e ( _send_string (1 :s 19C ]
+[; ;PR17B.c: 426: i =1;
+"426
+[e = _i -> -> 1 `i `uc ]
+"427
+}
+[; ;PR17B.c: 427: }
+[e $U 117  ]
+"421
+[e :U 118 ]
+[e [\ _i , $ -> -> 2 `i `uc 119
+ 120 ]
+"427
+[e :U 117 ]
+"428
+}
+[e :U 113 ]
+[; ;PR17B.c: 428: }
+[; ;PR17B.c: 429: if(RD4 == 0)
+"429
+[e $ ! == -> _RD4 `i -> 0 `i 121  ]
+[; ;PR17B.c: 430: {
+"430
+{
+[; ;PR17B.c: 431: while(RD4 == 0) continue;
+"431
+[e $U 122  ]
+[e :U 123 ]
+[e $U 122  ]
+[e :U 122 ]
+[e $ == -> _RD4 `i -> 0 `i 123  ]
+[e :U 124 ]
+[; ;PR17B.c: 432: switch (i)
+"432
+[e $U 126  ]
+[; ;PR17B.c: 433: {
+"433
+{
+[; ;PR17B.c: 434: case 2 : mic();
+"434
+[e :U 127 ]
+[e ( _mic ..  ]
+[; ;PR17B.c: 435: break;
+"435
+[e $U 125  ]
+[; ;PR17B.c: 436: default : analog();
+"436
+[e :U 128 ]
+[e ( _analog ..  ]
+[; ;PR17B.c: 437: i = 1;
+"437
+[e = _i -> -> 1 `i `uc ]
+"438
+}
+[; ;PR17B.c: 438: }
+[e $U 125  ]
+"432
+[e :U 126 ]
+[e [\ _i , $ -> -> 2 `i `uc 127
+ 128 ]
+"438
+[e :U 125 ]
+"440
+}
+[e :U 121 ]
+"441
+}
+[e :U 110 ]
+"414
+[e $U 111  ]
+[e :U 112 ]
+[; ;PR17B.c: 440: }
+[; ;PR17B.c: 441: }
+[; ;PR17B.c: 442: }
+"442
+[e :UE 109 ]
+}
+"445
+[v _message1p `(v 1 ef ]
+{
+[; ;PR17B.c: 444: void message1p(void)
+[; ;PR17B.c: 445: {
+[e :U _message1p ]
+[f ]
+[; ;PR17B.c: 446: RE1 = 0;
+"446
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 447: uc_send_receive_spi(0b00000001);
+"447
+[e ( _uc_send_receive_spi (1 -> -> 1 `i `uc ]
+[; ;PR17B.c: 448: uc_send_receive_spi(0b00000000);
+"448
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 449: uc_send_receive_spi(0b00001000);
+"449
+[e ( _uc_send_receive_spi (1 -> -> 8 `i `uc ]
+[; ;PR17B.c: 450: uc_send_receive_spi(0b00000000);
+"450
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 451: uc_send_receive_spi(0b01101110);
+"451
+[e ( _uc_send_receive_spi (1 -> -> 110 `i `uc ]
+[; ;PR17B.c: 452: uc_send_receive_spi(0b10000000);
+"452
+[e ( _uc_send_receive_spi (1 -> -> 128 `i `uc ]
+[; ;PR17B.c: 453: uc_send_receive_spi(0b00000000);
+"453
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 454: RE1 = 1;
+"454
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 455: lcd_clr();
+"455
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 456: lcd_goto(0);
+"456
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 457: send_string("**playing the");
+"457
+[e ( _send_string (1 :s 20C ]
+[; ;PR17B.c: 458: lcd_goto(20);
+"458
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 459: send_string("first message**");
+"459
+[e ( _send_string (1 :s 21C ]
+[; ;PR17B.c: 460: tmr_delay(4600);
+"460
+[e ( _tmr_delay (1 -> -> 4600 `i `us ]
+[; ;PR17B.c: 461: lcd_clr();
+"461
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 462: lcd_goto(0);
+"462
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 463: send_string("***halt***");
+"463
+[e ( _send_string (1 :s 22C ]
+[; ;PR17B.c: 464: }
+"464
+[e :UE 129 ]
+}
+"467
+[v _message2p `(v 1 ef ]
+{
+[; ;PR17B.c: 466: void message2p(void)
+[; ;PR17B.c: 467: {
+[e :U _message2p ]
+[f ]
+[; ;PR17B.c: 468: RE1 = 0;
+"468
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 469: uc_send_receive_spi(0b00000001);
+"469
+[e ( _uc_send_receive_spi (1 -> -> 1 `i `uc ]
+[; ;PR17B.c: 470: uc_send_receive_spi(0b00000000);
+"470
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 471: uc_send_receive_spi(0b11101110);
+"471
+[e ( _uc_send_receive_spi (1 -> -> 238 `i `uc ]
+[; ;PR17B.c: 472: uc_send_receive_spi(0b10000000);
+"472
+[e ( _uc_send_receive_spi (1 -> -> 128 `i `uc ]
+[; ;PR17B.c: 473: uc_send_receive_spi(0b10111011);
+"473
+[e ( _uc_send_receive_spi (1 -> -> 187 `i `uc ]
+[; ;PR17B.c: 474: uc_send_receive_spi(0b01000000);
+"474
+[e ( _uc_send_receive_spi (1 -> -> 64 `i `uc ]
+[; ;PR17B.c: 475: uc_send_receive_spi(0b00000000);
+"475
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 476: RE1 = 1;
+"476
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 477: lcd_clr();
+"477
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 478: lcd_goto(0);
+"478
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 479: send_string("**playing the");
+"479
+[e ( _send_string (1 :s 23C ]
+[; ;PR17B.c: 480: lcd_goto(20);
+"480
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 481: send_string("second message**");
+"481
+[e ( _send_string (1 :s 24C ]
+[; ;PR17B.c: 482: tmr_delay(4600);
+"482
+[e ( _tmr_delay (1 -> -> 4600 `i `us ]
+[; ;PR17B.c: 483: lcd_clr();
+"483
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 484: lcd_goto(0);
+"484
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 485: send_string("***halt***");
+"485
+[e ( _send_string (1 :s 25C ]
+[; ;PR17B.c: 486: }
+"486
+[e :UE 130 ]
+}
+"489
+[v _location `(v 1 ef ]
+{
+[; ;PR17B.c: 488: void location(void)
+[; ;PR17B.c: 489: {
+[e :U _location ]
+[f ]
+"491
+[v _i `uc 1 a ]
+[; ;PR17B.c: 491: char i =1;
+[e = _i -> -> 1 `i `uc ]
+[; ;PR17B.c: 492: lcd_clr();
+"492
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 493: lcd_goto(0);
+"493
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 494: send_string("Location");
+"494
+[e ( _send_string (1 :s 26C ]
+[; ;PR17B.c: 495: lcd_goto(20);
+"495
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 496: send_string("1. Message 1");
+"496
+[e ( _send_string (1 :s 27C ]
+[; ;PR17B.c: 497: while(1)
+"497
+[e :U 133 ]
+[; ;PR17B.c: 498: {
+"498
+{
+[; ;PR17B.c: 499: if(RD5 == 0)
+"499
+[e $ ! == -> _RD5 `i -> 0 `i 135  ]
+[; ;PR17B.c: 500: {
+"500
+{
+[; ;PR17B.c: 501: while(RD5 == 0) continue;
+"501
+[e $U 136  ]
+[e :U 137 ]
+[e $U 136  ]
+[e :U 136 ]
+[e $ == -> _RD5 `i -> 0 `i 137  ]
+[e :U 138 ]
+[; ;PR17B.c: 502: i++;
+"502
+[e ++ _i -> -> 1 `i `uc ]
+[; ;PR17B.c: 503: lcd_goto(20);
+"503
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 504: switch (i)
+"504
+[e $U 140  ]
+[; ;PR17B.c: 505: {
+"505
+{
+[; ;PR17B.c: 506: case 2 : send_string("2. Message 2");
+"506
+[e :U 141 ]
+[e ( _send_string (1 :s 28C ]
+[; ;PR17B.c: 507: break;
+"507
+[e $U 139  ]
+[; ;PR17B.c: 509: default: send_string("1. Message 1");
+"509
+[e :U 142 ]
+[e ( _send_string (1 :s 29C ]
+[; ;PR17B.c: 510: i =1;
+"510
+[e = _i -> -> 1 `i `uc ]
+"511
+}
+[; ;PR17B.c: 511: }
+[e $U 139  ]
+"504
+[e :U 140 ]
+[e [\ _i , $ -> -> 2 `i `uc 141
+ 142 ]
+"511
+[e :U 139 ]
+"512
+}
+[e :U 135 ]
+[; ;PR17B.c: 512: }
+[; ;PR17B.c: 513: if(RD4 == 0)
+"513
+[e $ ! == -> _RD4 `i -> 0 `i 143  ]
+[; ;PR17B.c: 514: {
+"514
+{
+[; ;PR17B.c: 515: while(RD4 == 0) continue;
+"515
+[e $U 144  ]
+[e :U 145 ]
+[e $U 144  ]
+[e :U 144 ]
+[e $ == -> _RD4 `i -> 0 `i 145  ]
+[e :U 146 ]
+[; ;PR17B.c: 516: switch (i)
+"516
+[e $U 148  ]
+[; ;PR17B.c: 517: {
+"517
+{
+[; ;PR17B.c: 518: case 2 : message2r();
+"518
+[e :U 149 ]
+[e ( _message2r ..  ]
+[; ;PR17B.c: 519: break;
+"519
+[e $U 147  ]
+[; ;PR17B.c: 520: default : message1r();
+"520
+[e :U 150 ]
+[e ( _message1r ..  ]
+[; ;PR17B.c: 521: i = 1;
+"521
+[e = _i -> -> 1 `i `uc ]
+"522
+}
+[; ;PR17B.c: 522: }
+[e $U 147  ]
+"516
+[e :U 148 ]
+[e [\ _i , $ -> -> 2 `i `uc 149
+ 150 ]
+"522
+[e :U 147 ]
+"524
+}
+[e :U 143 ]
+"525
+}
+[e :U 132 ]
+"497
+[e $U 133  ]
+[e :U 134 ]
+[; ;PR17B.c: 524: }
+[; ;PR17B.c: 525: }
+[; ;PR17B.c: 526: }
+"526
+[e :UE 131 ]
+}
+"529
+[v _message1r `(v 1 ef ]
+{
+[; ;PR17B.c: 528: void message1r(void)
+[; ;PR17B.c: 529: {
+[e :U _message1r ]
+[f ]
+[; ;PR17B.c: 530: RE1 = 0;
+"530
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 531: uc_send_receive_spi(0b10000001);
+"531
+[e ( _uc_send_receive_spi (1 -> -> 129 `i `uc ]
+[; ;PR17B.c: 532: uc_send_receive_spi(0b00000000);
+"532
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 533: uc_send_receive_spi(0b00001000);
+"533
+[e ( _uc_send_receive_spi (1 -> -> 8 `i `uc ]
+[; ;PR17B.c: 534: uc_send_receive_spi(0b00000000);
+"534
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 535: uc_send_receive_spi(0b01101110);
+"535
+[e ( _uc_send_receive_spi (1 -> -> 110 `i `uc ]
+[; ;PR17B.c: 536: uc_send_receive_spi(0b10000000);
+"536
+[e ( _uc_send_receive_spi (1 -> -> 128 `i `uc ]
+[; ;PR17B.c: 537: uc_send_receive_spi(0b00000000);
+"537
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 538: RE1 = 1;
+"538
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 539: lcd_clr();
+"539
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 540: lcd_goto(0);
+"540
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 541: send_string("**recording the");
+"541
+[e ( _send_string (1 :s 30C ]
+[; ;PR17B.c: 542: lcd_goto(20);
+"542
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 543: send_string("first message**");
+"543
+[e ( _send_string (1 :s 31C ]
+[; ;PR17B.c: 544: tmr_delay(4600);
+"544
+[e ( _tmr_delay (1 -> -> 4600 `i `us ]
+[; ;PR17B.c: 545: lcd_clr();
+"545
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 546: lcd_goto(0);
+"546
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 547: send_string("***halt***");
+"547
+[e ( _send_string (1 :s 32C ]
+[; ;PR17B.c: 548: RD3 =1;
+"548
+[e = _RD3 -> -> 1 `i `b ]
+[; ;PR17B.c: 549: }
+"549
+[e :UE 151 ]
+}
+"552
+[v _message2r `(v 1 ef ]
+{
+[; ;PR17B.c: 551: void message2r(void)
+[; ;PR17B.c: 552: {
+[e :U _message2r ]
+[f ]
+[; ;PR17B.c: 553: RE1 = 0;
+"553
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 554: uc_send_receive_spi(0b10000001);
+"554
+[e ( _uc_send_receive_spi (1 -> -> 129 `i `uc ]
+[; ;PR17B.c: 555: uc_send_receive_spi(0b00000000);
+"555
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 556: uc_send_receive_spi(0b11101110);
+"556
+[e ( _uc_send_receive_spi (1 -> -> 238 `i `uc ]
+[; ;PR17B.c: 557: uc_send_receive_spi(0b10000000);
+"557
+[e ( _uc_send_receive_spi (1 -> -> 128 `i `uc ]
+[; ;PR17B.c: 558: uc_send_receive_spi(0b10111011);
+"558
+[e ( _uc_send_receive_spi (1 -> -> 187 `i `uc ]
+[; ;PR17B.c: 559: uc_send_receive_spi(0b01000000);
+"559
+[e ( _uc_send_receive_spi (1 -> -> 64 `i `uc ]
+[; ;PR17B.c: 560: uc_send_receive_spi(0b00000000);
+"560
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 561: RE1 = 1;
+"561
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 562: lcd_clr();
+"562
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 563: lcd_goto(0);
+"563
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 564: send_string("**recording the");
+"564
+[e ( _send_string (1 :s 33C ]
+[; ;PR17B.c: 565: lcd_goto(20);
+"565
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 566: send_string("second message**");
+"566
+[e ( _send_string (1 :s 34C ]
+[; ;PR17B.c: 567: tmr_delay(4600);
+"567
+[e ( _tmr_delay (1 -> -> 4600 `i `us ]
+[; ;PR17B.c: 568: lcd_clr();
+"568
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 569: lcd_goto(0);
+"569
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 570: send_string("***halt***");
+"570
+[e ( _send_string (1 :s 35C ]
+[; ;PR17B.c: 571: RD3 = 1;
+"571
+[e = _RD3 -> -> 1 `i `b ]
+[; ;PR17B.c: 572: }
+"572
+[e :UE 152 ]
+}
+"575
+[v _analog `(v 1 ef ]
+{
+[; ;PR17B.c: 574: void analog(void)
+[; ;PR17B.c: 575: {
+[e :U _analog ]
+[f ]
+[; ;PR17B.c: 576: RE1 = 0;
+"576
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 577: uc_send_receive_spi(0b11100000);
+"577
+[e ( _uc_send_receive_spi (1 -> -> 224 `i `uc ]
+[; ;PR17B.c: 578: uc_send_receive_spi(0b00000000);
+"578
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 579: RE1 = 1;
+"579
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 580: tmr_delay(10);
+"580
+[e ( _tmr_delay (1 -> -> 10 `i `us ]
+[; ;PR17B.c: 582: RE1 = 0;
+"582
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 583: uc_send_receive_spi(0b00100000);
+"583
+[e ( _uc_send_receive_spi (1 -> -> 32 `i `uc ]
+[; ;PR17B.c: 584: uc_send_receive_spi(0b00000000);
+"584
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 585: RE1 = 1;
+"585
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 587: tmr_delay(10);
+"587
+[e ( _tmr_delay (1 -> -> 10 `i `us ]
+[; ;PR17B.c: 589: RE1 = 0;
+"589
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 590: uc_send_receive_spi(0b10000000);
+"590
+[e ( _uc_send_receive_spi (1 -> -> 128 `i `uc ]
+[; ;PR17B.c: 591: uc_send_receive_spi(0b00000000);
+"591
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 592: RE1 = 1;
+"592
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 593: tmr_delay(10);
+"593
+[e ( _tmr_delay (1 -> -> 10 `i `us ]
+[; ;PR17B.c: 595: RD3 = 0;
+"595
+[e = _RD3 -> -> 0 `i `b ]
+[; ;PR17B.c: 597: RE1 = 0;
+"597
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 598: uc_send_receive_spi(0b00100000);
+"598
+[e ( _uc_send_receive_spi (1 -> -> 32 `i `uc ]
+[; ;PR17B.c: 599: uc_send_receive_spi(0b00000000);
+"599
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 600: RE1 = 1;
+"600
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 602: tmr_delay(10);
+"602
+[e ( _tmr_delay (1 -> -> 10 `i `us ]
+[; ;PR17B.c: 605: RE1 = 0;
+"605
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 606: uc_send_receive_spi(0b10100010);
+"606
+[e ( _uc_send_receive_spi (1 -> -> 162 `i `uc ]
+[; ;PR17B.c: 607: uc_send_receive_spi(0b00000000);
+"607
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 608: uc_send_receive_spi(0b00100000);
+"608
+[e ( _uc_send_receive_spi (1 -> -> 32 `i `uc ]
+[; ;PR17B.c: 609: RE1 = 1;
+"609
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 611: tmr_delay(10);
+"611
+[e ( _tmr_delay (1 -> -> 10 `i `us ]
+[; ;PR17B.c: 613: location();
+"613
+[e ( _location ..  ]
+[; ;PR17B.c: 614: }
+"614
+[e :UE 153 ]
+}
+"617
+[v _mic `(v 1 ef ]
+{
+[; ;PR17B.c: 616: void mic(void)
+[; ;PR17B.c: 617: {
+[e :U _mic ]
+[f ]
+[; ;PR17B.c: 618: RE1 = 0;
+"618
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 619: uc_send_receive_spi(0b11100000);
+"619
+[e ( _uc_send_receive_spi (1 -> -> 224 `i `uc ]
+[; ;PR17B.c: 620: uc_send_receive_spi(0b00000000);
+"620
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 621: RE1 = 1;
+"621
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 622: tmr_delay(10);
+"622
+[e ( _tmr_delay (1 -> -> 10 `i `us ]
+[; ;PR17B.c: 624: RE1 = 0;
+"624
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 625: uc_send_receive_spi(0b10000000);
+"625
+[e ( _uc_send_receive_spi (1 -> -> 128 `i `uc ]
+[; ;PR17B.c: 626: uc_send_receive_spi(0b00000000);
+"626
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 627: RE1 = 1;
+"627
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 628: tmr_delay(10);
+"628
+[e ( _tmr_delay (1 -> -> 10 `i `us ]
+[; ;PR17B.c: 630: RD3 = 1;
+"630
+[e = _RD3 -> -> 1 `i `b ]
+[; ;PR17B.c: 631: location();
+"631
+[e ( _location ..  ]
+[; ;PR17B.c: 632: }
+"632
+[e :UE 154 ]
+}
+"636
+[v _Forward `(v 1 ef ]
+{
+[; ;PR17B.c: 635: void Forward(void)
+[; ;PR17B.c: 636: {
+[e :U _Forward ]
+[f ]
+[; ;PR17B.c: 637: RC0 = 0;
+"637
+[e = _RC0 -> -> 0 `i `b ]
+[; ;PR17B.c: 638: lcd_goto(20);
+"638
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 639: send_string("**forward**");
+"639
+[e ( _send_string (1 :s 36C ]
+[; ;PR17B.c: 640: tmr_delay(300);
+"640
+[e ( _tmr_delay (1 -> -> 300 `i `us ]
+[; ;PR17B.c: 641: RC0 = 1;
+"641
+[e = _RC0 -> -> 1 `i `b ]
+[; ;PR17B.c: 642: }
+"642
+[e :UE 155 ]
+}
+"645
+[v _Play_s `(v 1 ef ]
+{
+[; ;PR17B.c: 644: void Play_s(void)
+[; ;PR17B.c: 645: {
+[e :U _Play_s ]
+[f ]
+[; ;PR17B.c: 646: RE2 = 0;
+"646
+[e = _RE2 -> -> 0 `i `b ]
+[; ;PR17B.c: 647: lcd_goto(20);
+"647
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 648: send_string("**play**   ");
+"648
+[e ( _send_string (1 :s 37C ]
+[; ;PR17B.c: 649: tmr_delay(100);
+"649
+[e ( _tmr_delay (1 -> -> 100 `i `us ]
+[; ;PR17B.c: 650: RE2 =1;
+"650
+[e = _RE2 -> -> 1 `i `b ]
+[; ;PR17B.c: 651: }
+"651
+[e :UE 156 ]
+}
+"654
+[v _Option `(v 1 ef ]
+{
+[; ;PR17B.c: 653: void Option(void)
+[; ;PR17B.c: 654: {
+[e :U _Option ]
+[f ]
+"655
+[v _i `uc 1 a ]
+[; ;PR17B.c: 655: char i =1;
+[e = _i -> -> 1 `i `uc ]
+[; ;PR17B.c: 656: lcd_clr();
+"656
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 657: lcd_goto(0);
+"657
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 658: send_string("Option");
+"658
+[e ( _send_string (1 :s 38C ]
+[; ;PR17B.c: 659: lcd_goto(20);
+"659
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 660: send_string("1. Analog Input");
+"660
+[e ( _send_string (1 :s 39C ]
+[; ;PR17B.c: 661: while(1)
+"661
+[e :U 159 ]
+[; ;PR17B.c: 662: {
+"662
+{
+[; ;PR17B.c: 663: if(RD5 == 0)
+"663
+[e $ ! == -> _RD5 `i -> 0 `i 161  ]
+[; ;PR17B.c: 664: {
+"664
+{
+[; ;PR17B.c: 665: while(RD5 == 0) continue;
+"665
+[e $U 162  ]
+[e :U 163 ]
+[e $U 162  ]
+[e :U 162 ]
+[e $ == -> _RD5 `i -> 0 `i 163  ]
+[e :U 164 ]
+[; ;PR17B.c: 666: i++;
+"666
+[e ++ _i -> -> 1 `i `uc ]
+[; ;PR17B.c: 667: lcd_goto(20);
+"667
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 668: switch (i)
+"668
+[e $U 166  ]
+[; ;PR17B.c: 669: {
+"669
+{
+[; ;PR17B.c: 670: case 2 : send_string("2. MIC         ");
+"670
+[e :U 167 ]
+[e ( _send_string (1 :s 40C ]
+[; ;PR17B.c: 671: break;
+"671
+[e $U 165  ]
+[; ;PR17B.c: 672: default: send_string("1. Analog Input");
+"672
+[e :U 168 ]
+[e ( _send_string (1 :s 41C ]
+[; ;PR17B.c: 673: i =1;
+"673
+[e = _i -> -> 1 `i `uc ]
+"674
+}
+[; ;PR17B.c: 674: }
+[e $U 165  ]
+"668
+[e :U 166 ]
+[e [\ _i , $ -> -> 2 `i `uc 167
+ 168 ]
+"674
+[e :U 165 ]
+"675
+}
+[e :U 161 ]
+[; ;PR17B.c: 675: }
+[; ;PR17B.c: 676: if(RD4 == 0)
+"676
+[e $ ! == -> _RD4 `i -> 0 `i 169  ]
+[; ;PR17B.c: 677: {
+"677
+{
+[; ;PR17B.c: 678: while(RD4 == 0) continue;
+"678
+[e $U 170  ]
+[e :U 171 ]
+[e $U 170  ]
+[e :U 170 ]
+[e $ == -> _RD4 `i -> 0 `i 171  ]
+[e :U 172 ]
+[; ;PR17B.c: 679: switch (i)
+"679
+[e $U 174  ]
+[; ;PR17B.c: 680: {
+"680
+{
+[; ;PR17B.c: 681: case 2 : RD3 = 1; Record_s();
+"681
+[e :U 175 ]
+[e = _RD3 -> -> 1 `i `b ]
+[e ( _Record_s ..  ]
+[; ;PR17B.c: 682: break;
+"682
+[e $U 173  ]
+[; ;PR17B.c: 683: default : RD3 = 0; Record_s();
+"683
+[e :U 176 ]
+[e = _RD3 -> -> 0 `i `b ]
+[e ( _Record_s ..  ]
+[; ;PR17B.c: 684: i = 1;
+"684
+[e = _i -> -> 1 `i `uc ]
+"685
+}
+[; ;PR17B.c: 685: }
+[e $U 173  ]
+"679
+[e :U 174 ]
+[e [\ _i , $ -> -> 2 `i `uc 175
+ 176 ]
+"685
+[e :U 173 ]
+"687
+}
+[e :U 169 ]
+"688
+}
+[e :U 158 ]
+"661
+[e $U 159  ]
+[e :U 160 ]
+[; ;PR17B.c: 687: }
+[; ;PR17B.c: 688: }
+[; ;PR17B.c: 689: }
+"689
+[e :UE 157 ]
+}
+"692
+[v _Record_s `(v 1 ef ]
+{
+[; ;PR17B.c: 691: void Record_s(void)
+[; ;PR17B.c: 692: {
+[e :U _Record_s ]
+[f ]
+[; ;PR17B.c: 693: while(1)
+"693
+[e :U 179 ]
+[; ;PR17B.c: 694: {
+"694
+{
+[; ;PR17B.c: 695: while(RD4 == 1)continue;
+"695
+[e $U 181  ]
+[e :U 182 ]
+[e $U 181  ]
+[e :U 181 ]
+[e $ == -> _RD4 `i -> 1 `i 182  ]
+[e :U 183 ]
+[; ;PR17B.c: 696: if(RD4 == 0)
+"696
+[e $ ! == -> _RD4 `i -> 0 `i 184  ]
+[; ;PR17B.c: 698: {
+"698
+{
+[; ;PR17B.c: 699: while(RD4 == 0) continue;
+"699
+[e $U 185  ]
+[e :U 186 ]
+[e $U 185  ]
+[e :U 185 ]
+[e $ == -> _RD4 `i -> 0 `i 186  ]
+[e :U 187 ]
+[; ;PR17B.c: 700: RA0 = 0;
+"700
+[e = _RA0 -> -> 0 `i `b ]
+[; ;PR17B.c: 701: lcd_clr();
+"701
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 702: lcd_goto(0);
+"702
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 703: send_string("**record**");
+"703
+[e ( _send_string (1 :s 42C ]
+[; ;PR17B.c: 704: lcd_goto(20);
+"704
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 705: send_string("select to stop");
+"705
+[e ( _send_string (1 :s 43C ]
+"706
+}
+[e :U 184 ]
+[; ;PR17B.c: 706: }
+[; ;PR17B.c: 707: while(RD5 ==1)continue;
+"707
+[e $U 188  ]
+[e :U 189 ]
+[e $U 188  ]
+[e :U 188 ]
+[e $ == -> _RD5 `i -> 1 `i 189  ]
+[e :U 190 ]
+[; ;PR17B.c: 708: if(RD5 == 0)
+"708
+[e $ ! == -> _RD5 `i -> 0 `i 191  ]
+[; ;PR17B.c: 709: {
+"709
+{
+[; ;PR17B.c: 710: while(RD5 == 0)continue;
+"710
+[e $U 192  ]
+[e :U 193 ]
+[e $U 192  ]
+[e :U 192 ]
+[e $ == -> _RD5 `i -> 0 `i 193  ]
+[e :U 194 ]
+[; ;PR17B.c: 711: RA0 = 1;
+"711
+[e = _RA0 -> -> 1 `i `b ]
+[; ;PR17B.c: 712: lcd_clr();
+"712
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 713: lcd_goto(0);
+"713
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 714: send_string("**stop ");
+"714
+[e ( _send_string (1 :s 44C ]
+[; ;PR17B.c: 715: lcd_goto(20);
+"715
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 716: send_string("recording**");
+"716
+[e ( _send_string (1 :s 45C ]
+[; ;PR17B.c: 717: while(1){}
+"717
+[e :U 196 ]
+{
+}
+[e :U 195 ]
+[e $U 196  ]
+[e :U 197 ]
+"718
+}
+[e :U 191 ]
+"719
+}
+[e :U 178 ]
+"693
+[e $U 179  ]
+[e :U 180 ]
+[; ;PR17B.c: 718: }
+[; ;PR17B.c: 719: }
+[; ;PR17B.c: 720: }
+"720
+[e :UE 177 ]
+}
+"724
+[v _Erase `(v 1 ef ]
+{
+[; ;PR17B.c: 723: void Erase(void)
+[; ;PR17B.c: 724: {
+[e :U _Erase ]
+[f ]
+"725
+[v _i `uc 1 a ]
+[; ;PR17B.c: 725: char i =1;
+[e = _i -> -> 1 `i `uc ]
+[; ;PR17B.c: 726: lcd_clr();
+"726
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 727: lcd_goto(0);
+"727
+[e ( _lcd_goto (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 728: send_string("Decision");
+"728
+[e ( _send_string (1 :s 46C ]
+[; ;PR17B.c: 729: lcd_goto(20);
+"729
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 730: send_string("1. Erase       ");
+"730
+[e ( _send_string (1 :s 47C ]
+[; ;PR17B.c: 731: while(1)
+"731
+[e :U 200 ]
+[; ;PR17B.c: 732: {
+"732
+{
+[; ;PR17B.c: 733: if(RD5 == 0)
+"733
+[e $ ! == -> _RD5 `i -> 0 `i 202  ]
+[; ;PR17B.c: 734: {
+"734
+{
+[; ;PR17B.c: 735: while(RD5 == 0) continue;
+"735
+[e $U 203  ]
+[e :U 204 ]
+[e $U 203  ]
+[e :U 203 ]
+[e $ == -> _RD5 `i -> 0 `i 204  ]
+[e :U 205 ]
+[; ;PR17B.c: 736: i++;
+"736
+[e ++ _i -> -> 1 `i `uc ]
+[; ;PR17B.c: 737: lcd_goto(20);
+"737
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 738: switch (i)
+"738
+[e $U 207  ]
+[; ;PR17B.c: 739: {
+"739
+{
+[; ;PR17B.c: 740: case 2 : send_string("2. Global Erase");
+"740
+[e :U 208 ]
+[e ( _send_string (1 :s 48C ]
+[; ;PR17B.c: 741: break;
+"741
+[e $U 206  ]
+[; ;PR17B.c: 743: default: send_string("1. Erase       ");
+"743
+[e :U 209 ]
+[e ( _send_string (1 :s 49C ]
+[; ;PR17B.c: 744: i =1;
+"744
+[e = _i -> -> 1 `i `uc ]
+"745
+}
+[; ;PR17B.c: 745: }
+[e $U 206  ]
+"738
+[e :U 207 ]
+[e [\ _i , $ -> -> 2 `i `uc 208
+ 209 ]
+"745
+[e :U 206 ]
+"746
+}
+[e :U 202 ]
+[; ;PR17B.c: 746: }
+[; ;PR17B.c: 747: if(RD4 == 0)
+"747
+[e $ ! == -> _RD4 `i -> 0 `i 210  ]
+[; ;PR17B.c: 748: {
+"748
+{
+[; ;PR17B.c: 749: while(RD4 == 0) continue;
+"749
+[e $U 211  ]
+[e :U 212 ]
+[e $U 211  ]
+[e :U 211 ]
+[e $ == -> _RD4 `i -> 0 `i 212  ]
+[e :U 213 ]
+[; ;PR17B.c: 750: switch (i)
+"750
+[e $U 215  ]
+[; ;PR17B.c: 751: {
+"751
+{
+[; ;PR17B.c: 752: case 2 : g_erase();
+"752
+[e :U 216 ]
+[e ( _g_erase ..  ]
+[; ;PR17B.c: 753: break;
+"753
+[e $U 214  ]
+[; ;PR17B.c: 754: default : erase();
+"754
+[e :U 217 ]
+[e ( _erase ..  ]
+[; ;PR17B.c: 755: i = 1;
+"755
+[e = _i -> -> 1 `i `uc ]
+"756
+}
+[; ;PR17B.c: 756: }
+[e $U 214  ]
+"750
+[e :U 215 ]
+[e [\ _i , $ -> -> 2 `i `uc 216
+ 217 ]
+"756
+[e :U 214 ]
+"758
+}
+[e :U 210 ]
+"759
+}
+[e :U 199 ]
+"731
+[e $U 200  ]
+[e :U 201 ]
+[; ;PR17B.c: 758: }
+[; ;PR17B.c: 759: }
+[; ;PR17B.c: 760: }
+"760
+[e :UE 198 ]
+}
+"763
+[v _erase `(v 1 ef ]
+{
+[; ;PR17B.c: 762: void erase(void)
+[; ;PR17B.c: 763: {
+[e :U _erase ]
+[f ]
+[; ;PR17B.c: 764: RE1 = 0;
+"764
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 765: uc_send_receive_spi(0b10000000);
+"765
+[e ( _uc_send_receive_spi (1 -> -> 128 `i `uc ]
+[; ;PR17B.c: 766: uc_send_receive_spi(0b00000000);
+"766
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 767: RE1 = 1;
+"767
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 768: tmr_delay(10);
+"768
+[e ( _tmr_delay (1 -> -> 10 `i `us ]
+[; ;PR17B.c: 770: RE1 = 0;
+"770
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 771: uc_send_receive_spi(0b01000010);
+"771
+[e ( _uc_send_receive_spi (1 -> -> 66 `i `uc ]
+[; ;PR17B.c: 772: uc_send_receive_spi(0b00000000);
+"772
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 773: RE1 = 1;
+"773
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 774: tmr_delay(100);
+"774
+[e ( _tmr_delay (1 -> -> 100 `i `us ]
+[; ;PR17B.c: 775: lcd_clr();
+"775
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 776: lcd_goto(20);
+"776
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 777: send_string("Erased");
+"777
+[e ( _send_string (1 :s 50C ]
+[; ;PR17B.c: 778: while(1);
+"778
+[e :U 220 ]
+[e :U 219 ]
+[e $U 220  ]
+[e :U 221 ]
+[; ;PR17B.c: 780: }
+"780
+[e :UE 218 ]
+}
+"783
+[v _g_erase `(v 1 ef ]
+{
+[; ;PR17B.c: 782: void g_erase(void)
+[; ;PR17B.c: 783: {
+[e :U _g_erase ]
+[f ]
+[; ;PR17B.c: 784: RE1 = 0;
+"784
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 785: uc_send_receive_spi(0b10000000);
+"785
+[e ( _uc_send_receive_spi (1 -> -> 128 `i `uc ]
+[; ;PR17B.c: 786: uc_send_receive_spi(0b00000000);
+"786
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 787: RE1 = 1;
+"787
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 788: tmr_delay(10);
+"788
+[e ( _tmr_delay (1 -> -> 10 `i `us ]
+[; ;PR17B.c: 790: RE1 = 0;
+"790
+[e = _RE1 -> -> 0 `i `b ]
+[; ;PR17B.c: 791: uc_send_receive_spi(0b11000010);
+"791
+[e ( _uc_send_receive_spi (1 -> -> 194 `i `uc ]
+[; ;PR17B.c: 792: uc_send_receive_spi(0b00000000);
+"792
+[e ( _uc_send_receive_spi (1 -> -> 0 `i `uc ]
+[; ;PR17B.c: 793: RE1 = 1;
+"793
+[e = _RE1 -> -> 1 `i `b ]
+[; ;PR17B.c: 794: tmr_delay(100);
+"794
+[e ( _tmr_delay (1 -> -> 100 `i `us ]
+[; ;PR17B.c: 795: lcd_clr();
+"795
+[e ( _lcd_clr ..  ]
+[; ;PR17B.c: 796: lcd_goto(20);
+"796
+[e ( _lcd_goto (1 -> -> 20 `i `uc ]
+[; ;PR17B.c: 797: send_string("Memory Cleared");
+"797
+[e ( _send_string (1 :s 51C ]
+[; ;PR17B.c: 798: while(1);
+"798
+[e :U 224 ]
+[e :U 223 ]
+[e $U 224  ]
+[e :U 225 ]
+[; ;PR17B.c: 800: }
+"800
+[e :UE 222 ]
+}
+[a 17C 49 46 32 65 110 97 108 111 103 32 73 110 112 117 116 0 ]
+[a 19C 49 46 32 65 110 97 108 111 103 32 73 110 112 117 116 0 ]
+[a 39C 49 46 32 65 110 97 108 111 103 32 73 110 112 117 116 0 ]
+[a 41C 49 46 32 65 110 97 108 111 103 32 73 110 112 117 116 0 ]
+[a 43C 115 101 108 101 99 116 32 116 111 32 115 116 111 112 0 ]
+[a 16C 79 112 116 105 111 110 0 ]
+[a 38C 79 112 116 105 111 110 0 ]
+[a 12C 76 111 99 97 116 105 111 110 0 ]
+[a 26C 76 111 99 97 116 105 111 110 0 ]
+[a 46C 68 101 99 105 115 105 111 110 0 ]
+[a 48C 50 46 32 71 108 111 98 97 108 32 69 114 97 115 101 0 ]
+[a 20C 42 42 112 108 97 121 105 110 103 32 116 104 101 0 ]
+[a 23C 42 42 112 108 97 121 105 110 103 32 116 104 101 0 ]
+[a 30C 42 42 114 101 99 111 114 100 105 110 103 32 116 104 101 0 ]
+[a 33C 42 42 114 101 99 111 114 100 105 110 103 32 116 104 101 0 ]
+[a 1C 83 101 108 101 99 116 32 109 111 100 101 0 ]
+[a 3C 83 119 105 116 99 104 32 109 111 100 101 0 ]
+[a 7C 83 119 105 116 99 104 32 109 111 100 101 0 ]
+[a 8C 49 46 32 70 111 114 119 97 114 100 0 ]
+[a 50C 69 114 97 115 101 100 0 ]
+[a 51C 77 101 109 111 114 121 32 67 108 101 97 114 101 100 0 ]
+[a 5C 50 46 32 82 69 67 79 82 68 0 ]
+[a 14C 50 46 32 77 101 115 115 97 103 101 32 50 0 ]
+[a 28C 50 46 32 77 101 115 115 97 103 101 32 50 0 ]
+[a 27C 49 46 32 77 101 115 115 97 103 101 32 49 0 ]
+[a 29C 49 46 32 77 101 115 115 97 103 101 32 49 0 ]
+[a 45C 114 101 99 111 114 100 105 110 103 42 42 0 ]
+[a 21C 102 105 114 115 116 32 109 101 115 115 97 103 101 42 42 0 ]
+[a 31C 102 105 114 115 116 32 109 101 115 115 97 103 101 42 42 0 ]
+[a 24C 115 101 99 111 110 100 32 109 101 115 115 97 103 101 42 42 0 ]
+[a 34C 115 101 99 111 110 100 32 109 101 115 115 97 103 101 42 42 0 ]
+[a 42C 42 42 114 101 99 111 114 100 42 42 0 ]
+[a 36C 42 42 102 111 114 119 97 114 100 42 42 0 ]
+[a 22C 42 42 42 104 97 108 116 42 42 42 0 ]
+[a 25C 42 42 42 104 97 108 116 42 42 42 0 ]
+[a 32C 42 42 42 104 97 108 116 42 42 42 0 ]
+[a 35C 42 42 42 104 97 108 116 42 42 42 0 ]
+[a 44C 42 42 115 116 111 112 32 0 ]
+[a 11C 49 46 32 70 111 114 119 97 114 100 32 0 ]
+[a 10C 51 46 32 82 101 99 111 114 100 32 32 0 ]
+[a 4C 49 46 32 80 76 65 89 32 32 32 0 ]
+[a 6C 49 46 32 80 76 65 89 32 32 32 0 ]
+[a 13C 49 46 32 77 101 115 115 97 103 101 32 49 32 32 32 0 ]
+[a 15C 49 46 32 77 101 115 115 97 103 101 32 49 32 32 32 0 ]
+[a 37C 42 42 112 108 97 121 42 42 32 32 32 0 ]
+[a 9C 50 46 32 80 108 97 121 32 32 32 32 0 ]
+[a 47C 49 46 32 69 114 97 115 101 32 32 32 32 32 32 32 0 ]
+[a 49C 49 46 32 69 114 97 115 101 32 32 32 32 32 32 32 0 ]
+[a 18C 50 46 32 77 73 67 32 32 32 32 32 32 32 32 32 0 ]
+[a 40C 50 46 32 77 73 67 32 32 32 32 32 32 32 32 32 0 ]
+[a 2C 32 32 32 32 32 32 32 32 32 32 32 32 0 ]
